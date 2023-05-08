@@ -16,7 +16,7 @@ class Valuator(object):
   def __init__(self):
     import torch
     from train import Net
-    vals = torch.load("nets/value.pth", map_location=lambda storage, loc: storage)
+    vals = torch.load("nets/NNUE.pth", map_location=lambda storage, loc: storage)
     self.model = Net()
     self.model.load_state_dict(vals)
 
