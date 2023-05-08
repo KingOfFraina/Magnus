@@ -1,0 +1,11 @@
+# Magnus
+
+This is a Python chess engine that uses a Neural Network specifically trained to play chess and classic minimax algorithm with alpha-beta pruning to search for the best move. The engine evaluates the board position using a simple piece-value-based function. The script also includes a Flask web server to serve a simple web page with the chessboard and to allow the user to play against the engine in the browser.
+
+The script starts by importing the necessary modules, including chess for working with chess games, torch for loading a pre-trained neural network, and Flask for creating the web server. It defines a **State** class to represent the current state of the game, which includes the chessboard and the history of moves. It also defines two classes for evaluating the board position: ClassicValuator, which uses a simple piece-value-based function, and Valuator, which loads a pre-trained neural network to evaluate the board position.
+
+The **computer_minimax** function implements the minimax algorithm with alpha-beta pruning to search for the best move. It takes as input the current state 's', the evaluator 'v', the current depth 'depth', and the current alpha-beta bounds 'a' and 'b'. It returns the value of the board position for the current player, and optionally, a list of all the moves and their values at the current depth (when **big** is set to True). The **explore_leaves** function calls **computer_minimax** with depth set to 0 to explore all the possible moves from the current position and their values. It returns a list of tuples containing the value and the move for each possible move.
+
+The **computer_move** function calls **explore_leaves** to get a list of all the possible moves and their values, sorts the list in descending order (if it's White's turn) or ascending order (if it's Black's turn), and returns the move with the highest value.
+
+The **to_svg** function takes a State object as input and returns the SVG string for the chessboard. The **hello** function serves the **index.html** file, which includes the chessboard and JavaScript code to allow the user to play against the engine in the browser. Finally, the script creates a Flask app and starts the web server.
