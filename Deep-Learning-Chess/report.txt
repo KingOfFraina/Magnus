@@ -776,3 +776,1140 @@ Risposta IA: d8f6
 -0.40 -> -5.20: Esplorati 252912 nodi in 39.079 secondi 6471/sec
 Top 3: (-5.2, Move.from_uci('f6g6')) (-4.9, Move.from_uci('c7c5')) (-4.9, Move.from_uci('e8e7'))
 Risposta IA: f6g6
+1.00 -> -3.20: Esplorati 59369 nodi in 21.055 secondi 2819/sec
+Top 3: (-3.2, Move.from_uci('e7e6')) (-3.2, Move.from_uci('e7e5')) (-3.2, Move.from_uci('c7c5'))
+Risposta IA: e7e6
+-0.20 -> -4.40: Esplorati 135018 nodi in 80.577 secondi 1675/sec
+Top 3: (-4.4, Move.from_uci('d8f6')) (-4.4, Move.from_uci('g7g6')) (-4.4, Move.from_uci('b7b6'))
+Risposta IA: d8f6
+1.00 -> -3.20: Esplorati 59369 nodi in 14.363 secondi 4133/sec
+Top 3: (-3.2, Move.from_uci('e7e6')) (-3.2, Move.from_uci('e7e5')) (-3.2, Move.from_uci('c7c5'))
+Risposta IA: e7e6
+1.00 -> -3.20: Esplorati 59369 nodi in 14.255 secondi 4164/sec
+Top 3: (-3.2, Move.from_uci('e7e6')) (-3.2, Move.from_uci('e7e5')) (-3.2, Move.from_uci('c7c5'))
+Risposta IA: e7e6
+1.00 -> -0.40: Esplorati 2309 nodi in 1.519 secondi 1520/sec
+Top 3: (-0.3999999999999999, Move.from_uci('e7e6')) (-0.10000000000000009, Move.from_uci('b8a6')) (0.0, Move.from_uci('e7e5'))
+Risposta IA: e7e6
+-0.20 -> -4.10: Esplorati 6628 nodi in 4.225 secondi 1568/sec
+Top 3: (-4.1000000000000005, Move.from_uci('d8f6')) (-4.0, Move.from_uci('a7a6')) (-3.9, Move.from_uci('g7g5'))
+Risposta IA: d8f6
+-0.40 -> -4.60: Esplorati 7957 nodi in 5.136 secondi 1549/sec
+Top 3: (-4.6, Move.from_uci('f6f4')) (-4.4, Move.from_uci('f8b4')) (-4.4, Move.from_uci('e6e5'))
+Risposta IA: f6f4
+-1.10 -> -5.30: Esplorati 6602 nodi in 3.782 secondi 1745/sec
+Top 3: (-5.300000000000001, Move.from_uci('f4e4')) (-5.300000000000001, Move.from_uci('f8b4')) (-5.2, Move.from_uci('f8c5'))
+Risposta IA: f4e4
+-1.80 -> -7.30: Esplorati 5556 nodi in 3.133 secondi 1773/sec
+Top 3: (-7.3, Move.from_uci('e4c4')) (-5.6, Move.from_uci('e4e5')) (-5.6, Move.from_uci('e4f4'))
+Risposta IA: e4c4
+-6.00 -> -9.00: Esplorati 10958 nodi in 6.588 secondi 1663/sec
+Top 3: (-9.0, Move.from_uci('c4c5')) (-9.0, Move.from_uci('c4h4')) (-8.8, Move.from_uci('c4d5'))
+Risposta IA: c4c5
+1.00 -> 3.90: Esplorati 856220 nodi in 549.277 secondi 1558/sec
+Top 3: (3.9, Move.from_uci('b8c6')) (3.9000000000000004, Move.from_uci('g7g6')) (3.9000000000000004, Move.from_uci('g8h6'))
+Risposta IA: b8c6
+1.00 -> -0.40: Esplorati 2309 nodi in 0.613 secondi 3764/sec
+Top 3: (-0.3999999999999999, Move.from_uci('e7e6')) (-0.10000000000000009, Move.from_uci('b8a6')) (0.0, Move.from_uci('e7e5'))
+Risposta IA: e7e6
+-0.20 -> -4.10: Esplorati 6628 nodi in 1.590 secondi 4167/sec
+Top 3: (-4.1000000000000005, Move.from_uci('d8f6')) (-4.0, Move.from_uci('a7a6')) (-3.9, Move.from_uci('g7g5'))
+Risposta IA: d8f6
+-0.40 -> -4.60: Esplorati 7957 nodi in 2.092 secondi 3803/sec
+Top 3: (-4.6, Move.from_uci('f6f4')) (-4.4, Move.from_uci('f8b4')) (-4.4, Move.from_uci('e6e5'))
+Risposta IA: f6f4
+-0.50 -> -4.50: Esplorati 10457 nodi in 2.682 secondi 3899/sec
+Top 3: (-4.5, Move.from_uci('f8b4')) (-4.5, Move.from_uci('f8c5')) (-4.5, Move.from_uci('b8c6'))
+Risposta IA: f8b4
+-1.20 -> -4.90: Esplorati 11415 nodi in 2.685 secondi 4251/sec
+Top 3: (-4.9, Move.from_uci('b8c6')) (-4.9, Move.from_uci('g8f6')) (-4.9, Move.from_uci('b7b6'))
+Risposta IA: b8c6
+-1.40 -> -4.50: Esplorati 7859 nodi in 1.822 secondi 4313/sec
+Top 3: (-4.5, Move.from_uci('f4g4')) (-4.5, Move.from_uci('f4f6')) (-4.5, Move.from_uci('f4d6'))
+Risposta IA: f4g4
+-0.70 -> -4.40: Esplorati 10916 nodi in 2.879 secondi 3791/sec
+Top 3: (-4.4, Move.from_uci('g4g6')) (-3.5, Move.from_uci('g4h5')) (2.5999999999999996, Move.from_uci('c6d4'))
+Risposta IA: g4g6
+-0.40 -> -4.30: Esplorati 12976 nodi in 3.483 secondi 3725/sec
+Top 3: (-4.300000000000001, Move.from_uci('e8d8')) (-4.300000000000001, Move.from_uci('e8e7')) (-4.2, Move.from_uci('e8f8'))
+Risposta IA: e8d8
+0.20 -> -4.40: Esplorati 8449 nodi in 2.181 secondi 3874/sec
+Top 3: (-4.4, Move.from_uci('b4c5')) (-4.000000000000001, Move.from_uci('b4f8')) (-4.000000000000001, Move.from_uci('b4e7'))
+Risposta IA: b4c5
+0.30 -> -3.80: Esplorati 9139 nodi in 2.348 secondi 3892/sec
+Top 3: (-3.8000000000000003, Move.from_uci('c5f8')) (-3.7, Move.from_uci('c5b6')) (-3.4999999999999996, Move.from_uci('c5e7'))
+Risposta IA: c5f8
+0.70 -> -4.40: Esplorati 6937 nodi in 1.801 secondi 3851/sec
+Top 3: (-4.4, Move.from_uci('e6d5')) (-4.4, Move.from_uci('c6b4')) (-4.3, Move.from_uci('g6h5'))
+Risposta IA: e6d5
+0.20 -> -3.80: Esplorati 12622 nodi in 3.447 secondi 3661/sec
+Top 3: (-3.8, Move.from_uci('c6a5')) (-3.3000000000000003, Move.from_uci('c6b8')) (-2.9, Move.from_uci('c6e7'))
+Risposta IA: c6a5
+0.50 -> -2.70: Esplorati 9908 nodi in 2.508 secondi 3950/sec
+Top 3: (-2.6999999999999997, Move.from_uci('f7f5')) (-1.8999999999999995, Move.from_uci('g6f6')) (-1.7999999999999998, Move.from_uci('g6h5'))
+Risposta IA: f7f5
+1.50 -> -1.60: Esplorati 9062 nodi in 2.547 secondi 3557/sec
+Top 3: (-1.5999999999999996, Move.from_uci('d7d6')) (0.19999999999999973, Move.from_uci('f8d6')) (1.5000000000000004, Move.from_uci('g6b6'))
+Risposta IA: d7d6
+1.80 -> -1.30: Esplorati 7340 nodi in 1.954 secondi 3757/sec
+Top 3: (-1.3000000000000003, Move.from_uci('g8f6')) (-1.2000000000000002, Move.from_uci('c8d7')) (-1.0, Move.from_uci('b7b6'))
+Risposta IA: g8f6
+1.40 -> 0.40: Esplorati 6331 nodi in 1.655 secondi 3824/sec
+Top 3: (0.3999999999999999, Move.from_uci('g6e8')) (1.9, Move.from_uci('g6h5')) (2.9000000000000004, Move.from_uci('g6f7'))
+Risposta IA: g6e8
+2.40 -> -0.50: Esplorati 7861 nodi in 1.996 secondi 3939/sec
+Top 3: (-0.5, Move.from_uci('e8g6')) (-0.20000000000000018, Move.from_uci('c8f5')) (0.6000000000000001, Move.from_uci('f6h5'))
+Risposta IA: e8g6
+1.90 -> 1.30: Esplorati 11382 nodi in 2.854 secondi 3988/sec
+Top 3: (1.2999999999999998, Move.from_uci('g6e8')) (1.9, Move.from_uci('c8g4')) (2.8, Move.from_uci('g6h5'))
+Risposta IA: g6e8
+2.70 -> 1.40: Esplorati 7637 nodi in 2.068 secondi 3693/sec
+Top 3: (1.4000000000000004, Move.from_uci('f6e4')) (1.9000000000000004, Move.from_uci('f8e7')) (2.3, Move.from_uci('e8d7'))
+Risposta IA: f6e4
+6.50 -> 5.40: Esplorati 9497 nodi in 2.684 secondi 3538/sec
+Top 3: (5.399999999999999, Move.from_uci('f8e7')) (6.0, Move.from_uci('e8f7')) (6.1000000000000005, Move.from_uci('e8d7'))
+Risposta IA: f8e7
+6.60 -> 4.40: Esplorati 5643 nodi in 1.667 secondi 3384/sec
+Top 3: (4.4, Move.from_uci('c8h3')) (4.6, Move.from_uci('e7g5')) (4.899999999999999, Move.from_uci('c8g4'))
+Risposta IA: c8h3
+10.00 -> 7.80: Esplorati 3515 nodi in 1.005 secondi 3496/sec
+Top 3: (7.800000000000001, Move.from_uci('e8e7')) (11.3, Move.from_uci('e8f8')) (12.299999999999999, Move.from_uci('e8g8'))
+Risposta IA: e8e7
+15.40 -> 11.60: Esplorati 1751 nodi in 0.489 secondi 3583/sec
+Top 3: (11.6, Move.from_uci('d8e7')) (12.299999999999999, Move.from_uci('d8d7')) (12.299999999999999, Move.from_uci('d8e8'))
+Risposta IA: d8e7
+9.30 -> 10.10: Esplorati 9358 nodi in 2.197 secondi 4259/sec
+Top 3: (10.1, Move.from_uci('a8c8')) (10.1, Move.from_uci('h8c8')) (11.200000000000001, Move.from_uci('g7g5'))
+Risposta IA: a8c8
+8.80 -> 9.20: Esplorati 9019 nodi in 2.076 secondi 4343/sec
+Top 3: (9.200000000000001, Move.from_uci('h3d7')) (9.299999999999999, Move.from_uci('c8c4')) (9.9, Move.from_uci('a7a6'))
+Risposta IA: h3d7
+12.00 -> 9.40: Esplorati 3235 nodi in 0.905 secondi 3572/sec
+Top 3: (9.400000000000002, Move.from_uci('e7f6')) (9.7, Move.from_uci('e7f8')) (9.7, Move.from_uci('e7d8'))
+Risposta IA: e7f6
+10.80 -> 9.00: Esplorati 5157 nodi in 1.227 secondi 4201/sec
+Top 3: (9.0, Move.from_uci('c8c3')) (10.700000000000001, Move.from_uci('a5b3')) (11.5, Move.from_uci('d7e8'))
+Risposta IA: c8c3
+11.90 -> 14.10: Esplorati 1738 nodi in 0.466 secondi 3729/sec
+Top 3: (14.100000000000001, Move.from_uci('f6f7')) (14.999999999999998, Move.from_uci('f6e7')) (15.099999999999998, Move.from_uci('f6e5'))
+Risposta IA: f6f7
+15.00 -> 14.40: Esplorati 5756 nodi in 1.324 secondi 4347/sec
+Top 3: (14.399999999999999, Move.from_uci('h8e8')) (14.4, Move.from_uci('h8c8')) (14.9, Move.from_uci('g7g5'))
+Risposta IA: h8e8
+17.30 -> 14.40: Esplorati 3261 nodi in 0.872 secondi 3739/sec
+Top 3: (14.399999999999999, Move.from_uci('f7f6')) (14.6, Move.from_uci('f7f8')) (15.299999999999999, Move.from_uci('f7g8'))
+Risposta IA: f7f6
+15.00 -> 15.80: Esplorati 4132 nodi in 1.009 secondi 4095/sec
+Top 3: (15.8, Move.from_uci('a5c4')) (15.8, Move.from_uci('d7a4')) (15.8, Move.from_uci('f6g5'))
+Risposta IA: a5c4
+18.10 -> 19.10: Esplorati 1309 nodi in 0.368 secondi 3552/sec
+Top 3: (19.1, Move.from_uci('f6e5')) (19.200000000000003, Move.from_uci('f6e7'))
+Risposta IA: f6e5
+18.90 -> 16.30: Esplorati 1827 nodi in 0.498 secondi 3671/sec
+Top 3: (16.3, Move.from_uci('e5d4')) (20.0, Move.from_uci('c4e3')) (10000, Move.from_uci('e5f4'))
+Risposta IA: e5d4
+22.40 -> 16.30: Esplorati 2415 nodi in 0.603 secondi 4002/sec
+Top 3: (16.3, Move.from_uci('d7e8')) (16.4, Move.from_uci('d4c3')) (16.799999999999997, Move.from_uci('d7c6'))
+Risposta IA: d7e8
+19.40 -> 12.70: Esplorati 884 nodi in 0.201 secondi 4400/sec
+Top 3: (12.7, Move.from_uci('d4d3')) (12.700000000000001, Move.from_uci('c4e5'))
+Risposta IA: d4d3
+12.60 -> 12.40: Esplorati 3098 nodi in 0.644 secondi 4810/sec
+Top 3: (12.4, Move.from_uci('e8h5')) (12.8, Move.from_uci('d3c3')) (13.1, Move.from_uci('c4d6'))
+Risposta IA: e8h5
+12.40 -> 12.30: Esplorati 2941 nodi in 0.573 secondi 5137/sec
+Top 3: (12.299999999999999, Move.from_uci('h5g4')) (12.4, Move.from_uci('d3c2')) (12.4, Move.from_uci('h5e2'))
+Risposta IA: h5g4
+14.50 -> 12.60: Esplorati 1487 nodi in 0.307 secondi 4846/sec
+Top 3: (12.6, Move.from_uci('d3c2')) (12.6, Move.from_uci('d3d2')) (12.799999999999999, Move.from_uci('d3c3'))
+Risposta IA: d3c2
+14.20 -> 16.10: Esplorati 1125 nodi in 0.260 secondi 4332/sec
+Top 3: (16.099999999999998, Move.from_uci('c2b2')) (16.900000000000002, Move.from_uci('c2c3')) (17.099999999999998, Move.from_uci('c2c1'))
+Risposta IA: c2b2
+17.10 -> 16.80: Esplorati 3486 nodi in 0.692 secondi 5037/sec
+Top 3: (16.8, Move.from_uci('c4d2')) (16.8, Move.from_uci('b7b5')) (17.0, Move.from_uci('c4b6'))
+Risposta IA: c4d2
+17.70 -> 16.80: Esplorati 1394 nodi in 0.294 secondi 4740/sec
+Top 3: (16.8, Move.from_uci('b2c3')) (17.5, Move.from_uci('b2c1')) (18.2, Move.from_uci('b2c2'))
+Risposta IA: b2c3
+17.70 -> 17.30: Esplorati 536 nodi in 0.109 secondi 4895/sec
+Top 3: (17.3, Move.from_uci('d2e4')) (19.7, Move.from_uci('c3b4')) (19.8, Move.from_uci('c3d4'))
+Risposta IA: d2e4
+17.60 -> 17.50: Esplorati 554 nodi in 0.107 secondi 5177/sec
+Top 3: (17.5, Move.from_uci('c3b2')) (17.7, Move.from_uci('a7a6')) (17.8, Move.from_uci('b7b6'))
+Risposta IA: c3b2
+17.60 -> 16.90: Esplorati 699 nodi in 0.158 secondi 4432/sec
+Top 3: (16.9, Move.from_uci('b2a2')) (17.0, Move.from_uci('b7b6')) (17.0, Move.from_uci('b7b5'))
+Risposta IA: b2a2
+16.80 -> 25.50: Esplorati 1393 nodi in 0.252 secondi 5520/sec
+Top 3: (25.5, Move.from_uci('a7a5')) (26.2, Move.from_uci('a2b3')) (26.2, Move.from_uci('a2a3'))
+Risposta IA: a7a5
+26.50 -> 26.70: Esplorati 868 nodi in 0.176 secondi 4919/sec
+Top 3: (26.7, Move.from_uci('a5b4')) (26.700000000000003, Move.from_uci('a5a4')) (26.9, Move.from_uci('b7b6'))
+Risposta IA: a5b4
+26.80 -> 10000.00: Esplorati 156 nodi in 0.034 secondi 4636/sec
+Top 3: (10000, Move.from_uci('b7b6')) (10000, Move.from_uci('b7b5')) (10000, Move.from_uci('a2a1'))
+Risposta IA: b7b6
+27.50 -> 10000.00: Esplorati 49 nodi in 0.011 secondi 4267/sec
+Top 3: (10000, Move.from_uci('a2a1'))
+Risposta IA: a2a1
+1.00 -> 3.90: Esplorati 31719 nodi in 7.130 secondi 4448/sec
+Top 3: (3.9000000000000004, Move.from_uci('e7e6')) (3.9000000000000004, Move.from_uci('d7d5')) (4.1000000000000005, Move.from_uci('d7d6'))
+Risposta IA: e7e6
+-0.20 -> 0.60: Esplorati 47362 nodi in 11.748 secondi 4031/sec
+Top 3: (0.6000000000000001, Move.from_uci('f8b4')) (0.6999999999999993, Move.from_uci('a7a6')) (0.6999999999999997, Move.from_uci('c7c6'))
+Risposta IA: f8b4
+-0.40 -> 0.60: Esplorati 117429 nodi in 28.858 secondi 4069/sec
+Top 3: (0.5999999999999996, Move.from_uci('d8f6')) (0.6000000000000005, Move.from_uci('h7h6')) (0.6000000000000005, Move.from_uci('g7g6'))
+Risposta IA: d8f6
+1.00 -> -0.40: Esplorati 2309 nodi in 0.579 secondi 3985/sec
+Top 3: (-0.3999999999999999, Move.from_uci('e7e6')) (-0.10000000000000009, Move.from_uci('b8a6')) (0.0, Move.from_uci('e7e5'))
+Risposta IA: e7e6
+-0.20 -> -4.10: Esplorati 6628 nodi in 1.688 secondi 3927/sec
+Top 3: (-4.1000000000000005, Move.from_uci('d8f6')) (-4.0, Move.from_uci('a7a6')) (-3.9, Move.from_uci('g7g5'))
+Risposta IA: d8f6
+-0.40 -> -4.60: Esplorati 7957 nodi in 2.140 secondi 3717/sec
+Top 3: (-4.6, Move.from_uci('f6f4')) (-4.4, Move.from_uci('f8b4')) (-4.4, Move.from_uci('e6e5'))
+Risposta IA: f6f4
+-1.10 -> -5.30: Esplorati 6602 nodi in 1.469 secondi 4493/sec
+Top 3: (-5.300000000000001, Move.from_uci('f4e4')) (-5.300000000000001, Move.from_uci('f8b4')) (-5.2, Move.from_uci('f8c5'))
+Risposta IA: f4e4
+-1.70 -> -5.50: Esplorati 9245 nodi in 2.094 secondi 4414/sec
+Top 3: (-5.5, Move.from_uci('e4c6')) (-5.4, Move.from_uci('e4g4')) (-5.4, Move.from_uci('e4g6'))
+Risposta IA: e4c6
+-0.50 -> -5.00: Esplorati 10157 nodi in 2.406 secondi 4220/sec
+Top 3: (-5.0, Move.from_uci('c6c5')) (-4.7, Move.from_uci('c6a4')) (-4.6, Move.from_uci('c6d6'))
+Risposta IA: c6c5
+-0.60 -> -5.40: Esplorati 8121 nodi in 1.937 secondi 4191/sec
+Top 3: (-5.4, Move.from_uci('f8e7')) (-5.4, Move.from_uci('g7g6')) (-5.3, Move.from_uci('g8f6'))
+Risposta IA: f8e7
+-0.70 -> -5.40: Esplorati 9878 nodi in 2.391 secondi 4131/sec
+Top 3: (-5.4, Move.from_uci('g8f6')) (-5.4, Move.from_uci('h7h5')) (-5.4, Move.from_uci('a7a5'))
+Risposta IA: g8f6
+-0.40 -> -3.50: Esplorati 11406 nodi in 2.985 secondi 3821/sec
+Top 3: (-3.5, Move.from_uci('b7b5')) (-3.5, Move.from_uci('a7a5')) (-3.4000000000000004, Move.from_uci('h7h5'))
+Risposta IA: b7b5
+-0.60 -> -3.90: Esplorati 7709 nodi in 1.922 secondi 4010/sec
+Top 3: (-3.9000000000000004, Move.from_uci('c8b7')) (-3.6000000000000005, Move.from_uci('a7a5')) (-3.5, Move.from_uci('f6e4'))
+Risposta IA: c8b7
+-0.40 -> -2.10: Esplorati 14202 nodi in 3.579 secondi 3967/sec
+Top 3: (-2.0999999999999996, Move.from_uci('c5d6')) (-1.7000000000000002, Move.from_uci('c5b6')) (0.7999999999999998, Move.from_uci('b7f3'))
+Risposta IA: c5d6
+-1.10 -> -5.70: Esplorati 4858 nodi in 1.250 secondi 3885/sec
+Top 3: (-5.700000000000001, Move.from_uci('f6g4')) (-4.800000000000001, Move.from_uci('f6e4')) (-4.4, Move.from_uci('f6h5'))
+Risposta IA: f6g4
+-0.50 -> -6.30: Esplorati 8191 nodi in 2.016 secondi 4063/sec
+Top 3: (-6.3, Move.from_uci('h7h5')) (-5.7, Move.from_uci('e7d8')) (-5.6, Move.from_uci('e7f8'))
+Risposta IA: h7h5
+-0.80 -> -6.20: Esplorati 6030 nodi in 1.375 secondi 4384/sec
+Top 3: (-6.2, Move.from_uci('d6g3')) (-5.699999999999999, Move.from_uci('e7g5')) (-4.800000000000001, Move.from_uci('e6e5'))
+Risposta IA: d6g3
+-1.20 -> -8.30: Esplorati 4020 nodi in 0.922 secondi 4360/sec
+Top 3: (-8.3, Move.from_uci('e7g5')) (-6.0, Move.from_uci('f7f6')) (-5.8, Move.from_uci('e7d6'))
+Risposta IA: e7g5
+-5.90 -> -7.80: Esplorati 6743 nodi in 1.438 secondi 4689/sec
+Top 3: (-7.800000000000001, Move.from_uci('g5f6')) (-7.5, Move.from_uci('f7f5')) (-7.5, Move.from_uci('g5c1'))
+Risposta IA: g5f6
+-5.90 -> -8.40: Esplorati 9840 nodi in 2.000 secondi 4919/sec
+Top 3: (-8.4, Move.from_uci('f6g5')) (-7.4, Move.from_uci('e8e7')) (-7.2, Move.from_uci('b8a6'))
+Risposta IA: f6g5
+-6.20 -> -8.00: Esplorati 17824 nodi in 3.250 secondi 5483/sec
+Top 3: (-8.0, Move.from_uci('b8c6')) (-8.0, Move.from_uci('h8h6')) (-8.0, Move.from_uci('e8f8'))
+Risposta IA: b8c6
+-5.90 -> -8.80: Esplorati 10090 nodi in 2.094 secondi 4818/sec
+Top 3: (-8.8, Move.from_uci('c6a5')) (-8.6, Move.from_uci('a7a6')) (-8.3, Move.from_uci('b7a6'))
+Risposta IA: c6a5
+-4.80 -> -8.50: Esplorati 3871 nodi in 0.859 secondi 4505/sec
+Top 3: (-8.5, Move.from_uci('a5b3')) (-8.5, Move.from_uci('e8e7')) (-8.100000000000001, Move.from_uci('e8g8'))
+Risposta IA: a5b3
+-4.30 -> -8.30: Esplorati 2868 nodi in 0.704 secondi 4075/sec
+Top 3: (-8.3, Move.from_uci('e8d8')) (-7.9, Move.from_uci('e8e7')) (-7.0, Move.from_uci('e8f8'))
+Risposta IA: e8d8
+-3.30 -> -11.00: Esplorati 4156 nodi in 0.797 secondi 5217/sec
+Top 3: (-11.0, Move.from_uci('b3a1')) (-8.7, Move.from_uci('d8e7')) (-8.0, Move.from_uci('d8e8'))
+Risposta IA: b3a1
+-8.10 -> -11.40: Esplorati 4596 nodi in 0.797 secondi 5766/sec
+Top 3: (-11.399999999999999, Move.from_uci('a1c2')) (-11.3, Move.from_uci('d8c8')) (-10.1, Move.from_uci('b7a8'))
+Risposta IA: a1c2
+-8.30 -> -11.40: Esplorati 6959 nodi in 1.266 secondi 5498/sec
+Top 3: (-11.4, Move.from_uci('g5f6')) (-11.3, Move.from_uci('f7f5')) (-11.3, Move.from_uci('g5c1'))
+Risposta IA: g5f6
+-7.60 -> -14.30: Esplorati 5017 nodi in 0.953 secondi 5262/sec
+Top 3: (-14.299999999999999, Move.from_uci('b7a8')) (-13.5, Move.from_uci('d8e7')) (-13.3, Move.from_uci('f6h4'))
+Risposta IA: b7a8
+-9.90 -> -13.50: Esplorati 2218 nodi in 0.438 secondi 5065/sec
+Top 3: (-13.5, Move.from_uci('f6d4')) (-12.899999999999999, Move.from_uci('h8h5')) (-12.899999999999999, Move.from_uci('h8g8'))
+Risposta IA: f6d4
+-11.70 -> -14.50: Esplorati 1846 nodi in 0.375 secondi 4924/sec
+Top 3: (-14.5, Move.from_uci('a8g2')) (-14.4, Move.from_uci('h8h5')) (-12.4, Move.from_uci('h8h6'))
+Risposta IA: a8g2
+-7.60 -> -14.60: Esplorati 2023 nodi in 0.407 secondi 4976/sec
+Top 3: (-14.600000000000001, Move.from_uci('c2e1')) (-14.6, Move.from_uci('c2e3')) (-9.2, Move.from_uci('h8h5'))
+Risposta IA: c2e1
+-7.70 -> -9.50: Esplorati 1725 nodi in 0.312 secondi 5522/sec
+Top 3: (-9.5, Move.from_uci('d4f2')) (-9.100000000000001, Move.from_uci('h8h5')) (-8.4, Move.from_uci('h8h6'))
+Risposta IA: d4f2
+-2.70 -> -9.90: Esplorati 1535 nodi in 0.297 secondi 5162/sec
+Top 3: (-9.9, Move.from_uci('e1d3')) (-4.4, Move.from_uci('h8h5')) (-3.2, Move.from_uci('h8h6'))
+Risposta IA: e1d3
+-3.10 -> -4.40: Esplorati 1543 nodi in 0.297 secondi 5198/sec
+Top 3: (-4.4, Move.from_uci('h8h5')) (-3.5999999999999996, Move.from_uci('h8h6')) (0.2999999999999998, Move.from_uci('h8e8'))
+Risposta IA: h8h5
+-3.70 -> -4.90: Esplorati 1120 nodi in 0.187 secondi 5974/sec
+Top 3: (-4.9, Move.from_uci('d3b2')) (-4.5, Move.from_uci('d3e1')) (-4.5, Move.from_uci('d3c1'))
+Risposta IA: d3b2
+-4.40 -> -5.20: Esplorati 1117 nodi in 0.156 secondi 7150/sec
+Top 3: (-5.2, Move.from_uci('b2d3')) (-5.2, Move.from_uci('b2c4')) (-5.2, Move.from_uci('d8c7'))
+Risposta IA: b2d3
+-5.20 -> -5.90: Esplorati 1153 nodi in 0.156 secondi 7387/sec
+Top 3: (-5.9, Move.from_uci('d8c7')) (-5.800000000000001, Move.from_uci('d8e7')) (-5.6, Move.from_uci('d8c8'))
+Risposta IA: d8c7
+-5.80 -> -6.00: Esplorati 1248 nodi in 0.187 secondi 6656/sec
+Top 3: (-6.0, Move.from_uci('c7b7')) (-6.0, Move.from_uci('c7b6')) (-6.0, Move.from_uci('d7d5'))
+Risposta IA: c7b7
+-5.60 -> -6.20: Esplorati 1285 nodi in 0.156 secondi 8225/sec
+Top 3: (-6.2, Move.from_uci('f7f6')) (-5.800000000000001, Move.from_uci('g7g6')) (-5.4, Move.from_uci('g7h6'))
+Risposta IA: f7f6
+-5.20 -> -5.30: Esplorati 1286 nodi in 0.187 secondi 6865/sec
+Top 3: (-5.300000000000001, Move.from_uci('g7h6')) (-4.6, Move.from_uci('b7c7')) (-4.6, Move.from_uci('b7c6'))
+Risposta IA: g7h6
+-5.30 -> -5.40: Esplorati 1222 nodi in 0.188 secondi 6507/sec
+Top 3: (-5.4, Move.from_uci('d3c1')) (-5.0, Move.from_uci('d3f4')) (-5.0, Move.from_uci('a7a5'))
+Risposta IA: d3c1
+-4.70 -> -6.30: Esplorati 820 nodi in 0.109 secondi 7505/sec
+Top 3: (-6.3, Move.from_uci('c1a2')) (-5.6, Move.from_uci('f6f5')) (-5.1, Move.from_uci('c1e2'))
+Risposta IA: c1a2
+-5.90 -> -6.50: Esplorati 776 nodi in 0.109 secondi 7098/sec
+Top 3: (-6.5, Move.from_uci('a2c3')) (-6.300000000000001, Move.from_uci('f6f5')) (-6.3, Move.from_uci('b7c7'))
+Risposta IA: a2c3
+-7.50 -> -7.30: Esplorati 1134 nodi in 0.156 secondi 7259/sec
+Top 3: (-7.300000000000001, Move.from_uci('c3e4')) (-7.300000000000001, Move.from_uci('c3d5')) (-7.300000000000001, Move.from_uci('f6f5'))
+Risposta IA: c3e4
+-7.20 -> 2.00: Esplorati 1200 nodi in 0.156 secondi 7680/sec
+Top 3: (1.9999999999999996, Move.from_uci('b7c6')) (1.9999999999999996, Move.from_uci('b7b6')) (1.9999999999999996, Move.from_uci('b7a6'))
+Risposta IA: b7c6
+2.10 -> 2.20: Esplorati 2571 nodi in 0.375 secondi 6857/sec
+Top 3: (2.2, Move.from_uci('c6b7')) (2.4000000000000004, Move.from_uci('c6d5')) (2.4000000000000004, Move.from_uci('f6f5'))
+Risposta IA: c6b7
+2.50 -> 2.00: Esplorati 1329 nodi in 0.203 secondi 6544/sec
+Top 3: (2.0, Move.from_uci('e4d6')) (2.0999999999999996, Move.from_uci('b7c7')) (2.1, Move.from_uci('d7d5'))
+Risposta IA: e4d6
+3.60 -> 3.30: Esplorati 1121 nodi in 0.187 secondi 5980/sec
+Top 3: (3.3000000000000003, Move.from_uci('e6e5')) (3.4999999999999996, Move.from_uci('d6e4')) (3.500000000000001, Move.from_uci('d6f5'))
+Risposta IA: e6e5
+4.80 -> -5.50: Esplorati 635 nodi in 0.125 secondi 5082/sec
+Top 3: (-5.5, Move.from_uci('d6f7')) (-2.0999999999999996, Move.from_uci('d6c8')) (4.8, Move.from_uci('d6c4'))
+Risposta IA: d6f7
+1.00 -> -0.40: Esplorati 2309 nodi in 0.533 secondi 4335/sec
+Top 3: (-0.3999999999999999, Move.from_uci('e7e6')) (-0.10000000000000009, Move.from_uci('b8a6')) (0.0, Move.from_uci('e7e5'))
+Risposta IA: e7e6
+0.80 -> -4.60: Esplorati 5417 nodi in 1.312 secondi 4129/sec
+Top 3: (-4.6, Move.from_uci('d8h4')) (-4.5, Move.from_uci('g7g5')) (-4.2, Move.from_uci('d8f6'))
+Risposta IA: d8h4
+-0.50 -> -6.20: Esplorati 3811 nodi in 0.875 secondi 4354/sec
+Top 3: (-6.200000000000001, Move.from_uci('h4e4')) (-5.5, Move.from_uci('h4h5')) (-5.2, Move.from_uci('f8b4'))
+Risposta IA: h4e4
+-1.90 -> -9.10: Esplorati 4495 nodi in 1.078 secondi 4168/sec
+Top 3: (-9.100000000000001, Move.from_uci('f8b4')) (-9.100000000000001, Move.from_uci('f8d6')) (-9.100000000000001, Move.from_uci('e8d8'))
+Risposta IA: f8b4
+-2.30 -> -6.50: Esplorati 7021 nodi in 1.626 secondi 4319/sec
+Top 3: (-6.5, Move.from_uci('b4e7')) (-6.5, Move.from_uci('b4d6')) (-6.199999999999999, Move.from_uci('b4f8'))
+Risposta IA: b4e7
+-2.10 -> -4.50: Esplorati 6100 nodi in 1.375 secondi 4436/sec
+Top 3: (-4.5, Move.from_uci('e4f5')) (-4.1, Move.from_uci('e4d5')) (-4.1, Move.from_uci('e4g4'))
+Risposta IA: e4f5
+-1.80 -> -4.30: Esplorati 12737 nodi in 2.844 secondi 4478/sec
+Top 3: (-4.300000000000001, Move.from_uci('b8c6')) (-4.3, Move.from_uci('b7b6')) (-4.3, Move.from_uci('e7d6'))
+Risposta IA: b8c6
+-2.40 -> -6.20: Esplorati 18336 nodi in 4.079 secondi 4495/sec
+Top 3: (-6.199999999999999, Move.from_uci('f5g4')) (-6.0, Move.from_uci('f5f6')) (-5.6, Move.from_uci('e7d8'))
+Risposta IA: f5g4
+-1.20 -> -2.80: Esplorati 12071 nodi in 2.938 secondi 4107/sec
+Top 3: (-2.8000000000000003, Move.from_uci('g4h4')) (-2.6, Move.from_uci('g4f5')) (0.7000000000000002, Move.from_uci('c6e5'))
+Risposta IA: g4h4
+2.40 -> -5.50: Esplorati 6743 nodi in 1.500 secondi 4494/sec
+Top 3: (-5.5, Move.from_uci('d7c6')) (-5.5, Move.from_uci('b7c6')) (-2.4, Move.from_uci('e7f8'))
+Risposta IA: d7c6
+-0.80 -> -5.10: Esplorati 6690 nodi in 1.688 secondi 3963/sec
+Top 3: (-5.1, Move.from_uci('g8f6')) (-5.0, Move.from_uci('e7d6')) (-5.0, Move.from_uci('e6e5'))
+Risposta IA: g8f6
+-1.80 -> -5.60: Esplorati 7107 nodi in 1.797 secondi 3955/sec
+Top 3: (-5.6, Move.from_uci('c8d7')) (-5.4, Move.from_uci('a8b8')) (-5.2, Move.from_uci('e6e5'))
+Risposta IA: c8d7
+-2.30 -> -6.10: Esplorati 7376 nodi in 1.562 secondi 4720/sec
+Top 3: (-6.1, Move.from_uci('e7d6')) (-6.1, Move.from_uci('a7a5')) (-6.1, Move.from_uci('a8d8'))
+Risposta IA: e7d6
+-0.10 -> -1.60: Esplorati 1651 nodi in 0.390 secondi 4229/sec
+Top 3: (-1.5999999999999996, Move.from_uci('e7e6')) (-1.4000000000000004, Move.from_uci('e7e5')) (-1.3999999999999995, Move.from_uci('d7d5'))
+Risposta IA: e7e6
+-1.00 -> -4.00: Esplorati 3707 nodi in 0.875 secondi 4237/sec
+Top 3: (-4.000000000000001, Move.from_uci('d8g5')) (-4.0, Move.from_uci('f8c5')) (-3.9000000000000004, Move.from_uci('d8f6'))
+Risposta IA: d8g5
+-0.80 -> 11.20: Esplorati 2148 nodi in 0.563 secondi 3817/sec
+Top 3: (11.2, Move.from_uci('f3e5')) (10.2, Move.from_uci('f1b5')) (10.1, Move.from_uci('d1a4'))
+Risposta IA: f3e5
+-0.10 -> -1.60: Esplorati 1651 nodi in 0.125 secondi 13211/sec
+Top 3: (-1.5999999999999996, Move.from_uci('e7e6')) (-1.4000000000000004, Move.from_uci('e7e5')) (-1.3999999999999995, Move.from_uci('d7d5'))
+Risposta IA: e7e6
+-1.00 -> -4.00: Esplorati 3707 nodi in 0.250 secondi 14803/sec
+Top 3: (-4.000000000000001, Move.from_uci('d8g5')) (-4.0, Move.from_uci('f8c5')) (-3.9000000000000004, Move.from_uci('d8f6'))
+Risposta IA: d8g5
+-1.40 -> -3.80: Esplorati 28560 nodi in 3.141 secondi 9092/sec
+Top 3: (-3.8, Move.from_uci('g5f6')) (-3.8, Move.from_uci('g5h6')) (-3.6, Move.from_uci('b8c6'))
+Risposta IA: g5f6
+-0.60 -> -3.40: Esplorati 15143 nodi in 3.392 secondi 4464/sec
+Top 3: (-3.4, Move.from_uci('f6f5')) (-3.2, Move.from_uci('f6g5')) (-3.2, Move.from_uci('f6e5'))
+Risposta IA: f6f5
+-2.20 -> -6.50: Esplorati 10690 nodi in 2.422 secondi 4413/sec
+Top 3: (-6.5, Move.from_uci('f5d3')) (-6.5, Move.from_uci('f5f3')) (-6.5, Move.from_uci('f5g4'))
+Risposta IA: f5d3
+-1.30 -> -4.40: Esplorati 4467 nodi in 1.469 secondi 3040/sec
+Top 3: (-4.4, Move.from_uci('d3e4')) (-4.4, Move.from_uci('d3d6')) (-3.9, Move.from_uci('d3f5'))
+Risposta IA: d3e4
+-1.70 -> -4.50: Esplorati 11505 nodi in 3.199 secondi 3596/sec
+Top 3: (-4.5, Move.from_uci('f8e7')) (-4.5, Move.from_uci('b8c6')) (-4.5, Move.from_uci('h7h5'))
+Risposta IA: f8e7
+-2.10 -> -5.00: Esplorati 6944 nodi in 1.782 secondi 3897/sec
+Top 3: (-5.0, Move.from_uci('e4e5')) (-4.800000000000001, Move.from_uci('e4g6')) (-2.8, Move.from_uci('e4f5'))
+Risposta IA: e4e5
+-1.40 -> -4.70: Esplorati 6787 nodi in 1.727 secondi 3931/sec
+Top 3: (-4.7, Move.from_uci('e5e4')) (-4.6000000000000005, Move.from_uci('e5d6')) (-4.6, Move.from_uci('e5d5'))
+Risposta IA: e5e4
+-1.70 -> -4.60: Esplorati 6483 nodi in 1.626 secondi 3987/sec
+Top 3: (-4.6, Move.from_uci('e4c6')) (-4.6, Move.from_uci('e4g6')) (-4.3999999999999995, Move.from_uci('e4d5'))
+Risposta IA: e4c6
+-1.10 -> -4.80: Esplorati 7828 nodi in 1.985 secondi 3943/sec
+Top 3: (-4.8, Move.from_uci('c6c5')) (-4.8, Move.from_uci('g8h6')) (-4.8, Move.from_uci('g8f6'))
+Risposta IA: c6c5
+-1.30 -> -4.70: Esplorati 6449 nodi in 1.516 secondi 4254/sec
+Top 3: (-4.7, Move.from_uci('c5b4')) (-4.7, Move.from_uci('e7f8')) (-4.7, Move.from_uci('c5b6'))
+Risposta IA: c5b4
+-1.30 -> -6.90: Esplorati 4076 nodi in 1.125 secondi 3622/sec
+Top 3: (-6.9, Move.from_uci('b4b2')) (-5.2, Move.from_uci('b4c5')) (-4.6000000000000005, Move.from_uci('b4b6'))
+Risposta IA: b4b2
+-2.40 -> -4.90: Esplorati 6828 nodi in 1.772 secondi 3852/sec
+Top 3: (-4.9, Move.from_uci('b2b6')) (-4.4, Move.from_uci('e7b4')) (0.3999999999999999, Move.from_uci('b2a1'))
+Risposta IA: b2b6
+-1.30 -> -4.60: Esplorati 8061 nodi in 2.063 secondi 3907/sec
+Top 3: (-4.6000000000000005, Move.from_uci('e7b4')) (-4.5, Move.from_uci('e7a3')) (-4.5, Move.from_uci('e7d8'))
+Risposta IA: e7b4
+3.80 -> -4.60: Esplorati 2089 nodi in 0.547 secondi 3818/sec
+Top 3: (-4.6, Move.from_uci('b6b4')) (-4.5, Move.from_uci('g8h6')) (-4.2, Move.from_uci('d7d6'))
+Risposta IA: b6b4
+-1.80 -> -6.90: Esplorati 4358 nodi in 1.141 secondi 3820/sec
+Top 3: (-6.9, Move.from_uci('b4b2')) (-5.7, Move.from_uci('b4c3')) (-5.4, Move.from_uci('b4c5'))
+Risposta IA: b4b2
+-2.40 -> -6.70: Esplorati 10372 nodi in 2.625 secondi 3950/sec
+Top 3: (-6.7, Move.from_uci('g8e7')) (-6.7, Move.from_uci('b8c6')) (-6.7, Move.from_uci('b8a6'))
+Risposta IA: g8e7
+-2.20 -> -7.10: Esplorati 5645 nodi in 1.547 secondi 3649/sec
+Top 3: (-7.1, Move.from_uci('e7f5')) (-7.1, Move.from_uci('b8a6')) (-7.1, Move.from_uci('h7h6'))
+Risposta IA: e7f5
+-2.50 -> -6.80: Esplorati 6930 nodi in 1.734 secondi 3995/sec
+Top 3: (-6.8, Move.from_uci('f5e7')) (-6.8, Move.from_uci('f5h6')) (-6.7, Move.from_uci('f5d6'))
+Risposta IA: f5e7
+-2.30 -> -4.60: Esplorati 6095 nodi in 1.469 secondi 4148/sec
+Top 3: (-4.6, Move.from_uci('b2c3')) (-4.6, Move.from_uci('b2a2')) (-3.3, Move.from_uci('b2f6'))
+Risposta IA: b2c3
+-2.30 -> -5.20: Esplorati 11757 nodi in 2.844 secondi 4133/sec
+Top 3: (-5.2, Move.from_uci('b7b6')) (-5.0, Move.from_uci('b8c6')) (-5.0, Move.from_uci('c3a5'))
+Risposta IA: b7b6
+-2.50 -> -6.40: Esplorati 5190 nodi in 1.266 secondi 4099/sec
+Top 3: (-6.4, Move.from_uci('c8b7')) (-5.700000000000001, Move.from_uci('c3f6')) (-5.6, Move.from_uci('c8a6'))
+Risposta IA: c8b7
+-3.00 -> -6.50: Esplorati 7039 nodi in 1.688 secondi 4170/sec
+Top 3: (-6.5, Move.from_uci('b8a6')) (-6.4, Move.from_uci('d7d6')) (-6.4, Move.from_uci('b8c6'))
+Risposta IA: b8a6
+-3.60 -> -7.70: Esplorati 5780 nodi in 1.391 secondi 4156/sec
+Top 3: (-7.7, Move.from_uci('c3b2')) (-7.7, Move.from_uci('c3a3')) (-6.7, Move.from_uci('c3d4'))
+Risposta IA: c3b2
+-3.90 -> -7.60: Esplorati 8336 nodi in 1.735 secondi 4805/sec
+Top 3: (-7.6, Move.from_uci('b2a2')) (-7.4, Move.from_uci('b2a3')) (-7.1, Move.from_uci('b2f6'))
+Risposta IA: b2a2
+-3.30 -> -7.60: Esplorati 5525 nodi in 1.375 secondi 4017/sec
+Top 3: (-7.6, Move.from_uci('a2b2')) (-4.800000000000001, Move.from_uci('b7e4')) (-1.1, Move.from_uci('a2a1'))
+Risposta IA: a2b2
+-2.70 -> -7.80: Esplorati 6866 nodi in 1.766 secondi 3888/sec
+Top 3: (-7.8, Move.from_uci('a6c5')) (-7.6, Move.from_uci('h7h6')) (-7.6, Move.from_uci('d7d6'))
+Risposta IA: a6c5
+-2.80 -> -9.20: Esplorati 5864 nodi in 1.547 secondi 3790/sec
+Top 3: (-9.2, Move.from_uci('b7e4')) (-9.0, Move.from_uci('c5e4')) (-8.9, Move.from_uci('b2c3'))
+Risposta IA: b7e4
+-4.20 -> -12.20: Esplorati 9109 nodi in 2.391 secondi 3810/sec
+Top 3: (-12.2, Move.from_uci('e4c2')) (-10.600000000000001, Move.from_uci('b2c3')) (-10.600000000000001, Move.from_uci('b2b3'))
+Risposta IA: e4c2
+-1.80 -> -14.40: Esplorati 4625 nodi in 1.187 secondi 3894/sec
+Top 3: (-14.400000000000002, Move.from_uci('b2c2')) (-9.8, Move.from_uci('b2d4')) (-9.2, Move.from_uci('e7f5'))
+Risposta IA: b2c2
+-12.80 -> -17.30: Esplorati 4011 nodi in 0.860 secondi 4666/sec
+Top 3: (-17.3, Move.from_uci('c2c3')) (-15.0, Move.from_uci('c2b3')) (-14.8, Move.from_uci('c5e4'))
+Risposta IA: c2c3
+-12.90 -> -18.00: Esplorati 5075 nodi in 1.219 secondi 4163/sec
+Top 3: (-18.0, Move.from_uci('c3a1')) (-17.6, Move.from_uci('c3b2')) (-17.5, Move.from_uci('c5e4'))
+Risposta IA: c3a1
+-17.30 -> -20.10: Esplorati 4035 nodi in 0.875 secondi 4609/sec
+Top 3: (-20.1, Move.from_uci('a1a4')) (-19.9, Move.from_uci('a1d1')) (-19.9, Move.from_uci('a1c1'))
+Risposta IA: a1a4
+-18.50 -> -21.00: Esplorati 3933 nodi in 0.844 secondi 4659/sec
+Top 3: (-21.0, Move.from_uci('a4c6')) (-20.8, Move.from_uci('a4a1')) (-20.700000000000003, Move.from_uci('a4a2'))
+Risposta IA: a4c6
+-18.30 -> -21.60: Esplorati 5680 nodi in 1.250 secondi 4543/sec
+Top 3: (-21.6, Move.from_uci('c6f3')) (-21.6, Move.from_uci('c6e4')) (-21.6, Move.from_uci('c6b7'))
+Risposta IA: c6f3
+-15.80 -> -22.00: Esplorati 4157 nodi in 0.922 secondi 4508/sec
+Top 3: (-22.0, Move.from_uci('f3f4')) (-21.900000000000002, Move.from_uci('h8g8')) (-21.900000000000002, Move.from_uci('h8f8'))
+Risposta IA: f3f4
+-16.90 -> -22.00: Esplorati 3783 nodi in 0.781 secondi 4844/sec
+Top 3: (-22.0, Move.from_uci('b6c5')) (-21.8, Move.from_uci('f4e3')) (-21.8, Move.from_uci('f4f3'))
+Risposta IA: b6c5
+-18.60 -> -22.80: Esplorati 2631 nodi in 0.485 secondi 5428/sec
+Top 3: (-22.8, Move.from_uci('f4g4')) (-22.8, Move.from_uci('f4g3')) (-22.8, Move.from_uci('f4f3'))
+Risposta IA: f4g4
+-19.00 -> -24.50: Esplorati 2362 nodi in 0.469 secondi 5037/sec
+Top 3: (-24.5, Move.from_uci('g4e2')) (-24.1, Move.from_uci('g4g3')) (-23.2, Move.from_uci('g4e4'))
+Risposta IA: g4e2
+-23.80 -> -31.50: Esplorati 2699 nodi in 0.484 secondi 5573/sec
+Top 3: (-31.5, Move.from_uci('e2e1')) (-27.8, Move.from_uci('a8b8')) (-27.3, Move.from_uci('e7c6'))
+Risposta IA: e2e1
+-26.90 -> -32.70: Esplorati 2224 nodi in 0.406 secondi 5475/sec
+Top 3: (-32.7, Move.from_uci('e1h4')) (-32.300000000000004, Move.from_uci('e1e4')) (-27.8, Move.from_uci('e1f2'))
+Risposta IA: e1h4
+-26.90 -> -32.70: Esplorati 2596 nodi in 0.500 secondi 5194/sec
+Top 3: (-32.7, Move.from_uci('h4e4')) (-32.7, Move.from_uci('h4f4')) (-32.4, Move.from_uci('h4d4'))
+Risposta IA: h4e4
+-27.80 -> -33.80: Esplorati 2946 nodi in 0.500 secondi 5893/sec
+Top 3: (-33.800000000000004, Move.from_uci('e4h1')) (-33.4, Move.from_uci('a8b8')) (-33.2, Move.from_uci('h7h5'))
+Risposta IA: e4h1
+-33.20 -> -34.40: Esplorati 2619 nodi in 0.469 secondi 5583/sec
+Top 3: (-34.4, Move.from_uci('a8b8')) (-34.1, Move.from_uci('h1e4')) (-34.0, Move.from_uci('e7f5'))
+Risposta IA: a8b8
+-33.80 -> -34.80: Esplorati 3481 nodi in 0.610 secondi 5710/sec
+Top 3: (-34.800000000000004, Move.from_uci('b8b4')) (-34.8, Move.from_uci('h1h4')) (-34.7, Move.from_uci('h1c1'))
+Risposta IA: b8b4
+-33.60 -> -35.20: Esplorati 3545 nodi in 0.594 secondi 5967/sec
+Top 3: (-35.2, Move.from_uci('b4c4')) (-35.2, Move.from_uci('h1f3')) (-35.0, Move.from_uci('e7f5'))
+Risposta IA: b4c4
+-34.80 -> -35.70: Esplorati 3499 nodi in 0.641 secondi 5458/sec
+Top 3: (-35.7, Move.from_uci('c4b4')) (-35.7, Move.from_uci('h1g2')) (-35.6, Move.from_uci('e8g8'))
+Risposta IA: c4b4
+-35.30 -> -35.90: Esplorati 4120 nodi in 0.641 secondi 6428/sec
+Top 3: (-35.900000000000006, Move.from_uci('e7f5')) (-35.9, Move.from_uci('h1g2')) (-35.9, Move.from_uci('h1e4'))
+Risposta IA: e7f5
+-35.40 -> -36.40: Esplorati 4265 nodi in 0.813 secondi 5247/sec
+Top 3: (-36.4, Move.from_uci('h1g2')) (-36.2, Move.from_uci('e8e7')) (-36.2, Move.from_uci('h1f3'))
+Risposta IA: h1g2
+-35.90 -> -10000.00: Esplorati 200 nodi in 0.047 secondi 4267/sec
+Top 3: (-10000, Move.from_uci('f5e3')) (-36.6, Move.from_uci('e8e7'))
+Risposta IA: f5e3
+0.10 -> -1.20: Esplorati 1705 nodi in 0.406 secondi 4199/sec
+Top 3: (-1.1999999999999997, Move.from_uci('e7e6')) (-1.1999999999999997, Move.from_uci('e7e5')) (-1.1, Move.from_uci('d7d5'))
+Risposta IA: e7e6
+-0.70 -> -4.60: Esplorati 5367 nodi in 1.219 secondi 4403/sec
+Top 3: (-4.6, Move.from_uci('d8f6')) (-4.2, Move.from_uci('f8d6')) (-3.8000000000000003, Move.from_uci('d8e7'))
+Risposta IA: d8f6
+-1.10 -> -7.60: Esplorati 3352 nodi in 0.813 secondi 4124/sec
+Top 3: (-7.6000000000000005, Move.from_uci('f6d4')) (-5.300000000000001, Move.from_uci('f8b4')) (-5.1000000000000005, Move.from_uci('f8c5'))
+Risposta IA: f6d4
+-5.80 -> -8.10: Esplorati 12222 nodi in 2.797 secondi 4369/sec
+Top 3: (-8.1, Move.from_uci('f8c5')) (-8.1, Move.from_uci('e8e7')) (-8.1, Move.from_uci('c7c5'))
+Risposta IA: f8c5
+-5.50 -> -10000.00: Esplorati 47 nodi in 0.016 secondi 3027/sec
+Top 3: (-10000, Move.from_uci('d4f2'))
+Risposta IA: d4f2
+1.00 -> -0.40: Esplorati 2309 nodi in 0.682 secondi 3386/sec
+Top 3: (-0.3999999999999999, Move.from_uci('e7e6')) (-0.10000000000000009, Move.from_uci('b8a6')) (0.0, Move.from_uci('e7e5'))
+Risposta IA: e7e6
+-0.20 -> -4.10: Esplorati 6628 nodi in 1.719 secondi 3855/sec
+Top 3: (-4.1000000000000005, Move.from_uci('d8f6')) (-4.0, Move.from_uci('a7a6')) (-3.9, Move.from_uci('g7g5'))
+Risposta IA: d8f6
+-0.60 -> -4.60: Esplorati 6610 nodi in 1.485 secondi 4452/sec
+Top 3: (-4.6000000000000005, Move.from_uci('f6f4')) (-4.6, Move.from_uci('f6g6')) (-4.5, Move.from_uci('f6h6'))
+Risposta IA: f6f4
+-0.80 -> -3.40: Esplorati 7511 nodi in 1.703 secondi 4410/sec
+Top 3: (-3.4, Move.from_uci('f4g4')) (-3.3, Move.from_uci('f4d6')) (-3.1, Move.from_uci('f4f6'))
+Risposta IA: f4g4
+0.00 -> -4.90: Esplorati 5728 nodi in 1.422 secondi 4027/sec
+Top 3: (-4.9, Move.from_uci('f8b4')) (-4.9, Move.from_uci('b8c6')) (-4.9, Move.from_uci('f8e7'))
+Risposta IA: f8b4
+-0.50 -> -4.40: Esplorati 17394 nodi in 4.063 secondi 4281/sec
+Top 3: (-4.4, Move.from_uci('b8c6')) (-4.4, Move.from_uci('g8e7')) (-4.4, Move.from_uci('b4d6'))
+Risposta IA: b8c6
+-1.00 -> -5.90: Esplorati 9448 nodi in 2.114 secondi 4469/sec
+Top 3: (-5.9, Move.from_uci('c6d4')) (-5.800000000000001, Move.from_uci('h7h6')) (-5.800000000000001, Move.from_uci('b4d6'))
+Risposta IA: c6d4
+1.80 -> -0.30: Esplorati 5491 nodi in 1.250 secondi 4392/sec
+Top 3: (-0.30000000000000027, Move.from_uci('g4g6')) (-0.10000000000000009, Move.from_uci('g4d1')) (1.3000000000000003, Move.from_uci('b4c3'))
+Risposta IA: g4g6
+2.60 -> -1.80: Esplorati 9636 nodi in 2.281 secondi 4223/sec
+Top 3: (-1.7999999999999998, Move.from_uci('g6f6')) (-1.2000000000000002, Move.from_uci('g8e7')) (-1.2000000000000002, Move.from_uci('h7h5'))
+Risposta IA: g6f6
+2.80 -> -5.50: Esplorati 6910 nodi in 1.719 secondi 4019/sec
+Top 3: (-5.5, Move.from_uci('f6d4')) (-5.5, Move.from_uci('f6d8')) (-1.2000000000000002, Move.from_uci('f6e5'))
+Risposta IA: f6d4
+-1.40 -> -4.60: Esplorati 10393 nodi in 2.485 secondi 4182/sec
+Top 3: (-4.6, Move.from_uci('d4c4')) (-3.2, Move.from_uci('d4d6')) (-2.5999999999999996, Move.from_uci('d4e5'))
+Risposta IA: d4c4
+-1.20 -> -8.20: Esplorati 17550 nodi in 4.172 secondi 4206/sec
+Top 3: (-8.2, Move.from_uci('b4c3')) (-7.6, Move.from_uci('g8f6')) (-6.800000000000001, Move.from_uci('g8h6'))
+Risposta IA: b4c3
+0.00 -> -4.70: Esplorati 13747 nodi in 3.125 secondi 4398/sec
+Top 3: (-4.699999999999999, Move.from_uci('g8e7')) (-4.6000000000000005, Move.from_uci('g8f6')) (-4.6000000000000005, Move.from_uci('d7d5'))
+Risposta IA: g8e7
+-0.20 -> -3.20: Esplorati 7590 nodi in 1.656 secondi 4582/sec
+Top 3: (-3.2, Move.from_uci('c4b5')) (-3.2, Move.from_uci('c4a6')) (-3.1, Move.from_uci('c4c5'))
+Risposta IA: c4b5
+-0.20 -> -4.90: Esplorati 25263 nodi in 5.282 secondi 4783/sec
+Top 3: (-4.9, Move.from_uci('e7d5')) (-3.4000000000000004, Move.from_uci('e7f5')) (-3.4, Move.from_uci('b5g5'))
+Risposta IA: e7d5
+3.50 -> 0.20: Esplorati 13274 nodi in 2.923 secondi 4541/sec
+Top 3: (0.19999999999999973, Move.from_uci('d7d6')) (0.19999999999999973, Move.from_uci('h7h5')) (0.19999999999999973, Move.from_uci('b7b6'))
+Risposta IA: d7d6
+4.40 -> -0.00: Esplorati 5883 nodi in 1.516 secondi 3880/sec
+Top 3: (-4.440892098500626e-16, Move.from_uci('c8e6')) (0.09999999999999964, Move.from_uci('e8d8')) (0.49999999999999956, Move.from_uci('f7e6'))
+Risposta IA: c8e6
+3.90 -> -0.10: Esplorati 9758 nodi in 2.140 secondi 4559/sec
+Top 3: (-0.10000000000000053, Move.from_uci('h8g8')) (0.0, Move.from_uci('e6d5')) (0.39999999999999947, Move.from_uci('e6h3'))
+Risposta IA: h8g8
+3.20 -> -0.40: Esplorati 21768 nodi in 4.813 secondi 4522/sec
+Top 3: (-0.40000000000000036, Move.from_uci('b5c5')) (-0.3000000000000007, Move.from_uci('e8d7')) (-0.30000000000000027, Move.from_uci('g8g3'))
+Risposta IA: b5c5
+5.10 -> 0.30: Esplorati 7100 nodi in 1.766 secondi 4019/sec
+Top 3: (0.2999999999999998, Move.from_uci('e8e7')) (0.2999999999999998, Move.from_uci('e8d7')) (0.39999999999999947, Move.from_uci('a8c8'))
+Risposta IA: e8e7
+4.20 -> 0.50: Esplorati 12327 nodi in 2.844 secondi 4334/sec
+Top 3: (0.4999999999999991, Move.from_uci('e7d7')) (0.4999999999999991, Move.from_uci('h7h5')) (0.5999999999999996, Move.from_uci('c5b6'))
+Risposta IA: e7d7
+4.50 -> -0.40: Esplorati 13336 nodi in 3.126 secondi 4266/sec
+Top 3: (-0.40000000000000036, Move.from_uci('a8b8')) (-0.40000000000000036, Move.from_uci('d6d5')) (-0.09999999999999964, Move.from_uci('c7c6'))
+Risposta IA: a8b8
+4.20 -> 0.00: Esplorati 15516 nodi in 3.797 secondi 4085/sec
+Top 3: (0.0, Move.from_uci('a7a6')) (0.0, Move.from_uci('e6f5')) (0.09999999999999964, Move.from_uci('g8g4'))
+Risposta IA: a7a6
+4.70 -> 0.20: Esplorati 18575 nodi in 4.673 secondi 3975/sec
+Top 3: (0.20000000000000018, Move.from_uci('e6f5')) (0.3000000000000007, Move.from_uci('e6c4')) (0.40000000000000036, Move.from_uci('c5b6'))
+Risposta IA: e6f5
+4.70 -> 0.00: Esplorati 16256 nodi in 4.094 secondi 3970/sec
+Top 3: (0.0, Move.from_uci('d7c8')) (0.1999999999999993, Move.from_uci('g8f8')) (0.2999999999999998, Move.from_uci('b8c8'))
+Risposta IA: d7c8
+4.90 -> -0.20: Esplorati 9296 nodi in 2.094 secondi 4439/sec
+Top 3: (-0.20000000000000018, Move.from_uci('c5c2')) (-0.09999999999999964, Move.from_uci('c5b5')) (0.7999999999999998, Move.from_uci('b8b4'))
+Risposta IA: c5c2
+3.60 -> -1.00: Esplorati 13817 nodi in 3.266 secondi 4230/sec
+Top 3: (-1.0000000000000004, Move.from_uci('c2c5')) (-1.0, Move.from_uci('g8g7')) (-0.8999999999999999, Move.from_uci('g8h8'))
+Risposta IA: c2c5
+4.00 -> -1.40: Esplorati 13242 nodi in 3.203 secondi 4133/sec
+Top 3: (-1.3999999999999995, Move.from_uci('c7c6')) (-1.3000000000000007, Move.from_uci('b8b5')) (-1.2000000000000002, Move.from_uci('c8d8'))
+Risposta IA: c7c6
+4.60 -> -0.30: Esplorati 15092 nodi in 3.641 secondi 4145/sec
+Top 3: (-0.2999999999999998, Move.from_uci('b8b5')) (-0.20000000000000018, Move.from_uci('b8b7')) (-0.20000000000000018, Move.from_uci('c5a7'))
+Risposta IA: b8b5
+9.10 -> 5.80: Esplorati 2521 nodi in 0.703 secondi 3585/sec
+Top 3: (5.799999999999999, Move.from_uci('g8e8')) (5.800000000000001, Move.from_uci('c8c7')) (5.9, Move.from_uci('c8b7'))
+Risposta IA: g8e8
+8.80 -> 7.20: Esplorati 1691 nodi in 0.469 secondi 3604/sec
+Top 3: (7.2, Move.from_uci('c8c7')) (7.2, Move.from_uci('c8b7'))
+Risposta IA: c8c7
+9.70 -> 2.10: Esplorati 4876 nodi in 1.219 secondi 4000/sec
+Top 3: (2.1, Move.from_uci('c7b6')) (2.3999999999999995, Move.from_uci('f5d7')) (8.200000000000001, Move.from_uci('c7b8'))
+Risposta IA: c7b6
+7.70 -> -0.80: Esplorati 4144 nodi in 0.953 secondi 4347/sec
+Top 3: (-0.7999999999999998, Move.from_uci('c5c3')) (0.20000000000000018, Move.from_uci('h7h6')) (0.20000000000000018, Move.from_uci('a6a5'))
+Risposta IA: c5c3
+2.50 -> -5.20: Esplorati 3724 nodi in 0.813 secondi 4582/sec
+Top 3: (-5.2, Move.from_uci('c3e1')) (-5.2, Move.from_uci('c3c1')) (-5.2, Move.from_uci('c3a1'))
+Risposta IA: c3e1
+2.10 -> -3.70: Esplorati 9952 nodi in 2.250 secondi 4422/sec
+Top 3: (-3.7, Move.from_uci('b5c5')) (-3.6, Move.from_uci('f5g4')) (-3.6, Move.from_uci('f5h3'))
+Risposta IA: b5c5
+1.40 -> 1.30: Esplorati 8614 nodi in 1.828 secondi 4711/sec
+Top 3: (1.2999999999999998, Move.from_uci('f5d3')) (1.3999999999999995, Move.from_uci('f5g4')) (1.4000000000000004, Move.from_uci('c5c4'))
+Risposta IA: f5d3
+1.00 -> -0.40: Esplorati 2309 nodi in 0.578 secondi 3994/sec
+Top 3: (-0.3999999999999999, Move.from_uci('e7e6')) (-0.10000000000000009, Move.from_uci('b8a6')) (0.0, Move.from_uci('e7e5'))
+Risposta IA: e7e6
+-0.20 -> -4.10: Esplorati 6628 nodi in 1.547 secondi 4285/sec
+Top 3: (-4.1000000000000005, Move.from_uci('d8f6')) (-4.0, Move.from_uci('a7a6')) (-3.9, Move.from_uci('g7g5'))
+Risposta IA: d8f6
+-0.70 -> -4.60: Esplorati 6557 nodi in 1.390 secondi 4716/sec
+Top 3: (-4.6, Move.from_uci('f6f4')) (-4.6, Move.from_uci('f6h6')) (-4.5, Move.from_uci('a7a6'))
+Risposta IA: f6f4
+-0.80 -> -5.90: Esplorati 4841 nodi in 1.187 secondi 4078/sec
+Top 3: (-5.9, Move.from_uci('f4e4')) (-4.5, Move.from_uci('f4g4')) (-3.3, Move.from_uci('f4d6'))
+Risposta IA: f4e4
+-2.00 -> -6.50: Esplorati 11606 nodi in 2.613 secondi 4442/sec
+Top 3: (-6.5, Move.from_uci('b8c6')) (-6.4, Move.from_uci('f8e7')) (-6.4, Move.from_uci('f8d6'))
+Risposta IA: b8c6
+1.00 -> -0.40: Esplorati 2309 nodi in 0.183 secondi 12628/sec
+Top 3: (-0.3999999999999999, Move.from_uci('e7e6')) (-0.10000000000000009, Move.from_uci('b8a6')) (0.0, Move.from_uci('e7e5'))
+Risposta IA: e7e6
+-0.20 -> -4.10: Esplorati 6628 nodi in 0.529 secondi 12540/sec
+Top 3: (-4.1000000000000005, Move.from_uci('d8f6')) (-4.0, Move.from_uci('a7a6')) (-3.9, Move.from_uci('g7g5'))
+Risposta IA: d8f6
+0.10 -> -4.30: Esplorati 6058 nodi in 1.406 secondi 4308/sec
+Top 3: (-4.3, Move.from_uci('f8b4')) (-4.1000000000000005, Move.from_uci('g7g5')) (-4.000000000000001, Move.from_uci('e6e5'))
+Risposta IA: f8b4
+-1.10 -> -3.80: Esplorati 4883 nodi in 1.109 secondi 4402/sec
+Top 3: (-3.8000000000000003, Move.from_uci('b4d6')) (-3.8, Move.from_uci('b4d2')) (-3.6, Move.from_uci('b4e7'))
+Risposta IA: b4d6
+0.20 -> -3.90: Esplorati 12521 nodi in 2.890 secondi 4332/sec
+Top 3: (-3.9, Move.from_uci('b8c6')) (-3.9, Move.from_uci('b7b6')) (-3.9, Move.from_uci('a7a5'))
+Risposta IA: b8c6
+-0.40 -> -4.40: Esplorati 15854 nodi in 3.780 secondi 4193/sec
+Top 3: (-4.4, Move.from_uci('f6f4')) (-4.4, Move.from_uci('b7b6')) (-4.4, Move.from_uci('a7a5'))
+Risposta IA: f6f4
+-0.70 -> -5.40: Esplorati 22907 nodi in 5.436 secondi 4213/sec
+Top 3: (-5.4, Move.from_uci('b7b5')) (-5.4, Move.from_uci('g8e7')) (-5.4, Move.from_uci('h7h6'))
+Risposta IA: b7b5
+-1.40 -> -5.50: Esplorati 22284 nodi in 5.124 secondi 4349/sec
+Top 3: (-5.5, Move.from_uci('c8b7')) (-5.5, Move.from_uci('d6e7')) (-5.5, Move.from_uci('f7f6'))
+Risposta IA: c8b7
+-2.00 -> -5.50: Esplorati 9904 nodi in 2.265 secondi 4372/sec
+Top 3: (-5.5, Move.from_uci('d6e7')) (-5.5, Move.from_uci('g8f6')) (-5.4, Move.from_uci('f4g4'))
+Risposta IA: d6e7
+-1.80 -> -5.30: Esplorati 9272 nodi in 2.109 secondi 4396/sec
+Top 3: (-5.3, Move.from_uci('e6d5')) (-5.3, Move.from_uci('e8f8')) (-3.9000000000000004, Move.from_uci('c6b8'))
+Risposta IA: e6d5
+-1.30 -> -2.40: Esplorati 12518 nodi in 2.890 secondi 4331/sec
+Top 3: (-2.4000000000000004, Move.from_uci('c6e5')) (-2.1000000000000005, Move.from_uci('c6d4')) (-1.6, Move.from_uci('e7f6'))
+Risposta IA: c6e5
+1.90 -> 2.70: Esplorati 8687 nodi in 1.984 secondi 4378/sec
+Top 3: (2.6999999999999993, Move.from_uci('f4g4')) (2.9000000000000004, Move.from_uci('f4h6')) (7.5, Move.from_uci('f4e5'))
+Risposta IA: f4g4
+6.70 -> 2.60: Esplorati 9446 nodi in 2.031 secondi 4651/sec
+Top 3: (2.5999999999999996, Move.from_uci('d5e4')) (2.8000000000000003, Move.from_uci('e7g5')) (3.1999999999999993, Move.from_uci('d5d4'))
+Risposta IA: d5e4
+6.10 -> 3.30: Esplorati 7865 nodi in 1.812 secondi 4340/sec
+Top 3: (3.3000000000000007, Move.from_uci('g4f4')) (3.3000000000000007, Move.from_uci('g4f5')) (6.999999999999999, Move.from_uci('g8f6'))
+Risposta IA: g4f4
+5.90 -> 2.50: Esplorati 6594 nodi in 1.609 secondi 4098/sec
+Top 3: (2.499999999999999, Move.from_uci('e4e3')) (2.5, Move.from_uci('a7a5')) (2.5, Move.from_uci('a8b8'))
+Risposta IA: e4e3
+6.50 -> 3.10: Esplorati 7913 nodi in 1.921 secondi 4118/sec
+Top 3: (3.0999999999999996, Move.from_uci('a7a5')) (3.0999999999999996, Move.from_uci('a8b8')) (3.0999999999999996, Move.from_uci('g8h6'))
+Risposta IA: a7a5
+7.00 -> -0.00: Esplorati 5334 nodi in 1.312 secondi 4064/sec
+Top 3: (-8.881784197001252e-16, Move.from_uci('f4d4')) (1.5, Move.from_uci('e8f8')) (2.5, Move.from_uci('b7g2'))
+Risposta IA: f4d4
+3.20 -> 2.30: Esplorati 7785 nodi in 1.703 secondi 4572/sec
+Top 3: (2.3, Move.from_uci('d4g4')) (3.4000000000000004, Move.from_uci('e7c5')) (3.4000000000000004, Move.from_uci('e7f6'))
+Risposta IA: d4g4
+3.50 -> 0.40: Esplorati 6600 nodi in 1.453 secondi 4543/sec
+Top 3: (0.3999999999999999, Move.from_uci('a5a4')) (0.3999999999999999, Move.from_uci('a8b8')) (0.3999999999999999, Move.from_uci('h7h6'))
+Risposta IA: a5a4
+8.30 -> 0.40: Esplorati 1284 nodi in 0.297 secondi 4328/sec
+Top 3: (0.40000000000000036, Move.from_uci('e8f7')) (3.2000000000000006, Move.from_uci('e8f8')) (7.200000000000001, Move.from_uci('e8d8'))
+Risposta IA: e8f7
+3.80 -> -0.50: Esplorati 1832 nodi in 0.375 secondi 4886/sec
+Top 3: (-0.5, Move.from_uci('f7e6')) (-0.09999999999999964, Move.from_uci('f7e8')) (0.20000000000000018, Move.from_uci('f7g7'))
+Risposta IA: f7e6
+0.00 -> 0.00: Esplorati 5893 nodi in 1.203 secondi 4899/sec
+Top 3: (0.0, Move.from_uci('e6f5')) (0.09999999999999964, Move.from_uci('e6d5')) (0.10000000000000009, Move.from_uci('e6d6'))
+Risposta IA: e6f5
+3.20 -> -4.20: Esplorati 1407 nodi in 0.312 secondi 4503/sec
+Top 3: (-4.2, Move.from_uci('g8h6')) (-2.7, Move.from_uci('f5g5')) (-0.7000000000000002, Move.from_uci('f5f6'))
+Risposta IA: g8h6
+1.00 -> -0.40: Esplorati 2309 nodi in 1.236 secondi 1868/sec
+Top 3: (-0.3999999999999999, Move.from_uci('e7e6')) (-0.10000000000000009, Move.from_uci('b8a6')) (0.0, Move.from_uci('e7e5'))
+Risposta IA: e7e6
+-0.20 -> -4.10: Esplorati 6628 nodi in 3.802 secondi 1743/sec
+Top 3: (-4.1000000000000005, Move.from_uci('d8f6')) (-4.0, Move.from_uci('a7a6')) (-3.9, Move.from_uci('g7g5'))
+Risposta IA: d8f6
+-0.40 -> -4.60: Esplorati 7957 nodi in 4.921 secondi 1617/sec
+Top 3: (-4.6, Move.from_uci('f6f4')) (-4.4, Move.from_uci('f8b4')) (-4.4, Move.from_uci('e6e5'))
+Risposta IA: f6f4
+-1.10 -> -5.30: Esplorati 6602 nodi in 3.537 secondi 1866/sec
+Top 3: (-5.300000000000001, Move.from_uci('f4e4')) (-5.300000000000001, Move.from_uci('f8b4')) (-5.2, Move.from_uci('f8c5'))
+Risposta IA: f4e4
+-2.00 -> -9.50: Esplorati 5160 nodi in 2.720 secondi 1897/sec
+Top 3: (-9.5, Move.from_uci('e4c4')) (-6.0, Move.from_uci('e4f4')) (-6.0, Move.from_uci('e4g6'))
+Risposta IA: e4c4
+1.00 -> -0.40: Esplorati 2309 nodi in 0.527 secondi 4382/sec
+Top 3: (-0.3999999999999999, Move.from_uci('e7e6')) (-0.10000000000000009, Move.from_uci('b8a6')) (0.0, Move.from_uci('e7e5'))
+Risposta IA: e7e6
+0.20 -> -4.80: Esplorati 6648 nodi in 1.558 secondi 4266/sec
+Top 3: (-4.8, Move.from_uci('d8f6')) (-4.7, Move.from_uci('d8h4')) (-3.9000000000000004, Move.from_uci('d8g5'))
+Risposta IA: d8f6
+-0.60 -> -4.60: Esplorati 6610 nodi in 1.411 secondi 4685/sec
+Top 3: (-4.6000000000000005, Move.from_uci('f6f4')) (-4.6, Move.from_uci('f6g6')) (-4.5, Move.from_uci('f6h6'))
+Risposta IA: f6f4
+-0.80 -> -3.40: Esplorati 7511 nodi in 1.694 secondi 4432/sec
+Top 3: (-3.4, Move.from_uci('f4g4')) (-3.3, Move.from_uci('f4d6')) (-3.1, Move.from_uci('f4f6'))
+Risposta IA: f4g4
+0.20 -> -4.00: Esplorati 5222 nodi in 1.204 secondi 4335/sec
+Top 3: (-4.000000000000001, Move.from_uci('g4h4')) (0.8000000000000003, Move.from_uci('h7h5')) (0.8999999999999999, Move.from_uci('g4d1'))
+Risposta IA: g4h4
+0.90 -> -2.70: Esplorati 11467 nodi in 2.985 secondi 3841/sec
+Top 3: (-2.6999999999999997, Move.from_uci('f7f6')) (-0.9000000000000004, Move.from_uci('h4e7')) (-0.7000000000000002, Move.from_uci('g8f6'))
+Risposta IA: f7f6
+0.40 -> -1.50: Esplorati 30420 nodi in 6.843 secondi 4445/sec
+Top 3: (-1.5, Move.from_uci('b8c6')) (-1.3999999999999995, Move.from_uci('f8d6')) (-1.3000000000000003, Move.from_uci('g7g5'))
+Risposta IA: b8c6
+0.00 -> -5.80: Esplorati 7933 nodi in 1.745 secondi 4545/sec
+Top 3: (-5.800000000000001, Move.from_uci('c6d4')) (-4.699999999999999, Move.from_uci('f6f5')) (-4.6, Move.from_uci('b7b6'))
+Risposta IA: c6d4
+3.40 -> -0.40: Esplorati 2061 nodi in 0.583 secondi 3537/sec
+Top 3: (-0.3999999999999999, Move.from_uci('h4h5')) (4.1, Move.from_uci('g7g6')) (4.3999999999999995, Move.from_uci('e8d8'))
+Risposta IA: h4h5
+2.70 -> -4.40: Esplorati 1407 nodi in 0.390 secondi 3609/sec
+Top 3: (-4.4, Move.from_uci('g7g6')) (-4.300000000000001, Move.from_uci('e8d8')) (-2.8, Move.from_uci('e8e7'))
+Risposta IA: g7g6
+-0.60 -> -6.40: Esplorati 4054 nodi in 0.899 secondi 4509/sec
+Top 3: (-6.4, Move.from_uci('d4c2')) (-5.1, Move.from_uci('h7h5')) (-4.8, Move.from_uci('b7b6'))
+Risposta IA: d4c2
+-1.90 -> -6.90: Esplorati 3659 nodi in 0.728 secondi 5027/sec
+Top 3: (-6.9, Move.from_uci('c2a1')) (-5.4, Move.from_uci('c2d4')) (-2.0, Move.from_uci('f8a3'))
+Risposta IA: c2a1
+-6.30 -> -10.70: Esplorati 2468 nodi in 0.495 secondi 4985/sec
+Top 3: (-10.7, Move.from_uci('f8h6')) (-10.7, Move.from_uci('b7b6')) (-10.7, Move.from_uci('h7h5'))
+Risposta IA: f8h6
+1.00 -> -0.40: Esplorati 2309 nodi in 0.547 secondi 4221/sec
+Top 3: (-0.3999999999999999, Move.from_uci('e7e6')) (-0.10000000000000009, Move.from_uci('b8a6')) (0.0, Move.from_uci('e7e5'))
+Risposta IA: e7e6
+-0.20 -> -4.10: Esplorati 6628 nodi in 1.584 secondi 4184/sec
+Top 3: (-4.1000000000000005, Move.from_uci('d8f6')) (-4.0, Move.from_uci('a7a6')) (-3.9, Move.from_uci('g7g5'))
+Risposta IA: d8f6
+-0.60 -> -4.60: Esplorati 6610 nodi in 1.621 secondi 4076/sec
+Top 3: (-4.6000000000000005, Move.from_uci('f6f4')) (-4.6, Move.from_uci('f6g6')) (-4.5, Move.from_uci('f6h6'))
+Risposta IA: f6f4
+-0.80 -> -3.40: Esplorati 7511 nodi in 1.792 secondi 4192/sec
+Top 3: (-3.4, Move.from_uci('f4g4')) (-3.3, Move.from_uci('f4d6')) (-3.1, Move.from_uci('f4f6'))
+Risposta IA: f4g4
+0.00 -> -1.40: Esplorati 7997 nodi in 1.825 secondi 4381/sec
+Top 3: (-1.4, Move.from_uci('g4g6')) (-1.1, Move.from_uci('g4h5')) (3.5999999999999996, Move.from_uci('f8b4'))
+Risposta IA: g4g6
+0.60 -> -6.20: Esplorati 5009 nodi in 1.197 secondi 4185/sec
+Top 3: (-6.199999999999999, Move.from_uci('g6g2')) (-5.800000000000001, Move.from_uci('f8b4')) (-5.3, Move.from_uci('b8c6'))
+Risposta IA: g6g2
+-1.30 -> -5.00: Esplorati 6167 nodi in 1.663 secondi 3709/sec
+Top 3: (-5.0, Move.from_uci('g2h3')) (2.6999999999999993, Move.from_uci('f8b4')) (2.9000000000000004, Move.from_uci('g2g1'))
+Risposta IA: g2h3
+-1.10 -> -5.40: Esplorati 8335 nodi in 2.042 secondi 4082/sec
+Top 3: (-5.4, Move.from_uci('f8b4')) (-5.4, Move.from_uci('h7h6')) (-5.300000000000001, Move.from_uci('f7f6'))
+Risposta IA: f8b4
+-1.90 -> -4.70: Esplorati 6211 nodi in 1.436 secondi 4325/sec
+Top 3: (-4.7, Move.from_uci('b4a5')) (-4.300000000000001, Move.from_uci('b4e7')) (-3.9, Move.from_uci('b4c3'))
+Risposta IA: b4a5
+-0.70 -> -3.70: Esplorati 8842 nodi in 2.217 secondi 3988/sec
+Top 3: (-3.7, Move.from_uci('a5b6')) (-1.6, Move.from_uci('a5b4')) (-1.6, Move.from_uci('e6e5'))
+Risposta IA: a5b6
+-0.80 -> -4.20: Esplorati 11363 nodi in 2.934 secondi 3872/sec
+Top 3: (-4.2, Move.from_uci('b8c6')) (-4.1, Move.from_uci('g8e7')) (-4.0, Move.from_uci('e6e5'))
+Risposta IA: b8c6
+-1.30 -> -4.40: Esplorati 15679 nodi in 3.933 secondi 3986/sec
+Top 3: (-4.4, Move.from_uci('e6e5')) (-4.3999999999999995, Move.from_uci('g7g6')) (-4.3, Move.from_uci('e8f8'))
+Risposta IA: e6e5
+-0.90 -> -4.10: Esplorati 12965 nodi in 3.044 secondi 4258/sec
+Top 3: (-4.1000000000000005, Move.from_uci('d7d6')) (-4.1000000000000005, Move.from_uci('d7d5')) (-4.000000000000001, Move.from_uci('a7a6'))
+Risposta IA: d7d6
+0.10 -> -4.00: Esplorati 6051 nodi in 1.553 secondi 3897/sec
+Top 3: (-4.000000000000001, Move.from_uci('c7d6')) (-3.5, Move.from_uci('e8f8')) (-3.3999999999999995, Move.from_uci('e8d7'))
+Risposta IA: c7d6
+-0.80 -> -3.00: Esplorati 14528 nodi in 3.673 secondi 3955/sec
+Top 3: (-3.0, Move.from_uci('b6d8')) (-2.8000000000000003, Move.from_uci('f7f5')) (-1.1000000000000005, Move.from_uci('c6d4'))
+Risposta IA: b6d8
+-0.90 -> -4.50: Esplorati 4984 nodi in 1.085 secondi 4594/sec
+Top 3: (-4.5, Move.from_uci('d8g5')) (-4.5, Move.from_uci('c6d4')) (-4.4, Move.from_uci('c8g4'))
+Risposta IA: d8g5
+-1.10 -> -1.40: Esplorati 10629 nodi in 2.547 secondi 4173/sec
+Top 3: (-1.4000000000000004, Move.from_uci('c6d4')) (-0.9000000000000004, Move.from_uci('h3h6')) (-0.9000000000000004, Move.from_uci('h3h4'))
+Risposta IA: c6d4
+9.10 -> 0.20: Esplorati 2107 nodi in 0.495 secondi 4253/sec
+Top 3: (0.20000000000000018, Move.from_uci('d4e2')) (0.8999999999999999, Move.from_uci('c8f5')) (2.0, Move.from_uci('c8h3'))
+Risposta IA: d4e2
+3.90 -> 1.10: Esplorati 2564 nodi in 0.595 secondi 4306/sec
+Top 3: (1.1, Move.from_uci('c8h3')) (1.8000000000000003, Move.from_uci('e8d8')) (2.3, Move.from_uci('f7f6'))
+Risposta IA: c8h3
+-0.10 -> -0.20: Esplorati 4114 nodi in 0.896 secondi 4589/sec
+Top 3: (-0.20000000000000018, Move.from_uci('a8c8')) (4.440892098500626e-16, Move.from_uci('h3e6')) (0.10000000000000053, Move.from_uci('h3d7'))
+Risposta IA: a8c8
+4.90 -> 3.50: Esplorati 6204 nodi in 1.341 secondi 4627/sec
+Top 3: (3.5, Move.from_uci('e8d8')) (3.6, Move.from_uci('a7a6')) (3.7, Move.from_uci('e8f8'))
+Risposta IA: e8d8
+5.10 -> 2.30: Esplorati 7149 nodi in 1.946 secondi 3672/sec
+Top 3: (2.3, Move.from_uci('g8e7')) (2.5, Move.from_uci('g8f6')) (3.2, Move.from_uci('h7h5'))
+Risposta IA: g8e7
+4.60 -> 1.40: Esplorati 3648 nodi in 0.775 secondi 4709/sec
+Top 3: (1.3999999999999995, Move.from_uci('e7d5')) (2.2, Move.from_uci('f7f5')) (2.3, Move.from_uci('c8c4'))
+Risposta IA: e7d5
+6.00 -> 3.20: Esplorati 4335 nodi in 1.007 secondi 4304/sec
+Top 3: (3.1999999999999993, Move.from_uci('d5f4')) (3.6, Move.from_uci('d5e7')) (3.6, Move.from_uci('d5c7'))
+Risposta IA: d5f4
+5.90 -> 0.20: Esplorati 1152 nodi in 0.294 secondi 3923/sec
+Top 3: (0.20000000000000018, Move.from_uci('f4e2')) (0.8000000000000003, Move.from_uci('d8e8')) (1.1999999999999997, Move.from_uci('d6d5'))
+Risposta IA: f4e2
+6.30 -> -5.60: Esplorati 1125 nodi in 0.245 secondi 4593/sec
+Top 3: (-5.6, Move.from_uci('e2c3')) (1.1999999999999997, Move.from_uci('d8e8')) (5.4, Move.from_uci('e2g3'))
+Risposta IA: e2c3
+-0.30 -> -5.50: Esplorati 1430 nodi in 0.309 secondi 4630/sec
+Top 3: (-5.5, Move.from_uci('c3d1')) (-4.800000000000001, Move.from_uci('d8c8')) (-4.8, Move.from_uci('d6d5'))
+Risposta IA: c3d1
+-2.10 -> -6.50: Esplorati 1170 nodi in 0.189 secondi 6185/sec
+Top 3: (-6.5, Move.from_uci('d8c8')) (-5.6, Move.from_uci('d8c7')) (-5.6, Move.from_uci('b7b5'))
+Risposta IA: d8c8
+-5.60 -> -7.80: Esplorati 1094 nodi in 0.203 secondi 5397/sec
+Top 3: (-7.800000000000001, Move.from_uci('h8d8')) (-7.6, Move.from_uci('h7h5')) (-7.5, Move.from_uci('h8g8'))
+Risposta IA: h8d8
+-5.70 -> -8.00: Esplorati 660 nodi in 0.103 secondi 6400/sec
+Top 3: (-8.0, Move.from_uci('d8d6')) (-8.0, Move.from_uci('c8b8')) (-7.9, Move.from_uci('b7b6'))
+Risposta IA: d8d6
+-8.00 -> -8.80: Esplorati 2397 nodi in 0.373 secondi 6431/sec
+Top 3: (-8.8, Move.from_uci('d6d4')) (-8.700000000000001, Move.from_uci('d6f6')) (-8.7, Move.from_uci('d6c6'))
+Risposta IA: d6d4
+-7.90 -> -8.80: Esplorati 2523 nodi in 0.341 secondi 7400/sec
+Top 3: (-8.8, Move.from_uci('d4d5')) (-8.8, Move.from_uci('h7h6')) (-8.8, Move.from_uci('g7g6'))
+Risposta IA: d4d5
+-7.90 -> -9.30: Esplorati 1846 nodi in 0.249 secondi 7417/sec
+Top 3: (-9.3, Move.from_uci('c8d7')) (-9.100000000000001, Move.from_uci('c8c7')) (-9.100000000000001, Move.from_uci('c8d8'))
+Risposta IA: c8d7
+-7.60 -> -10.00: Esplorati 1019 nodi in 0.186 secondi 5489/sec
+Top 3: (-10.0, Move.from_uci('d5f5')) (-9.3, Move.from_uci('d5d3')) (-9.200000000000001, Move.from_uci('d5d4'))
+Risposta IA: d5f5
+-8.60 -> -11.00: Esplorati 903 nodi in 0.142 secondi 6349/sec
+Top 3: (-11.0, Move.from_uci('f5c5')) (-10.5, Move.from_uci('f5f6')) (-10.4, Move.from_uci('f5f2'))
+Risposta IA: f5c5
+-10.40 -> -11.50: Esplorati 1751 nodi in 0.191 secondi 9161/sec
+Top 3: (-11.5, Move.from_uci('c5b5')) (-11.3, Move.from_uci('c5c3')) (-11.3, Move.from_uci('d7d6'))
+Risposta IA: c5b5
+-11.70 -> -11.90: Esplorati 2006 nodi in 0.221 secondi 9060/sec
+Top 3: (-11.9, Move.from_uci('b5a5')) (-11.8, Move.from_uci('b5c5')) (-11.7, Move.from_uci('d7d6'))
+Risposta IA: b5a5
+-11.10 -> -12.70: Esplorati 1674 nodi in 0.164 secondi 10215/sec
+Top 3: (-12.7, Move.from_uci('a5a3')) (-12.5, Move.from_uci('a5a4')) (-12.5, Move.from_uci('d7d6'))
+Risposta IA: a5a3
+-12.60 -> -12.70: Esplorati 1672 nodi in 0.166 secondi 10051/sec
+Top 3: (-12.7, Move.from_uci('a3e3')) (-12.7, Move.from_uci('a3h3')) (-12.7, Move.from_uci('a3g3'))
+Risposta IA: a3e3
+-12.90 -> -13.00: Esplorati 2065 nodi in 0.206 secondi 10029/sec
+Top 3: (-13.0, Move.from_uci('e3e2')) (-12.899999999999999, Move.from_uci('e3b3')) (-12.8, Move.from_uci('e3e1'))
+Risposta IA: e3e2
+-13.00 -> -13.00: Esplorati 2016 nodi in 0.193 secondi 10445/sec
+Top 3: (-13.0, Move.from_uci('d7d6')) (-13.0, Move.from_uci('d7c7')) (-13.0, Move.from_uci('d7c6'))
+Risposta IA: d7d6
+-13.00 -> -13.00: Esplorati 2028 nodi in 0.195 secondi 10389/sec
+Top 3: (-13.0, Move.from_uci('d6d7')) (-13.0, Move.from_uci('d6d5')) (-13.0, Move.from_uci('d6c5'))
+Risposta IA: d6d7
+-13.00 -> -13.00: Esplorati 1605 nodi in 0.144 secondi 11158/sec
+Top 3: (-13.0, Move.from_uci('e2h2')) (-13.0, Move.from_uci('e2g2')) (-13.0, Move.from_uci('e2f2'))
+Risposta IA: e2h2
+-12.80 -> -13.00: Esplorati 1808 nodi in 0.199 secondi 9070/sec
+Top 3: (-13.0, Move.from_uci('h2c2')) (-13.0, Move.from_uci('d7d6')) (-13.0, Move.from_uci('h2g2'))
+Risposta IA: h2c2
+-13.00 -> -13.00: Esplorati 1605 nodi in 0.143 secondi 11214/sec
+Top 3: (-13.0, Move.from_uci('c2h2')) (-13.0, Move.from_uci('c2g2')) (-13.0, Move.from_uci('c2f2'))
+Risposta IA: c2h2
+-12.80 -> -13.00: Esplorati 1808 nodi in 0.099 secondi 18227/sec
+Top 3: (-13.0, Move.from_uci('h2c2')) (-13.0, Move.from_uci('d7d6')) (-13.0, Move.from_uci('h2g2'))
+Risposta IA: h2c2
+-13.00 -> -13.00: Esplorati 1605 nodi in 0.089 secondi 18074/sec
+Top 3: (-13.0, Move.from_uci('c2h2')) (-13.0, Move.from_uci('c2g2')) (-13.0, Move.from_uci('c2f2'))
+Risposta IA: c2h2
+-12.80 -> -13.00: Esplorati 1808 nodi in 0.081 secondi 22222/sec
+Top 3: (-13.0, Move.from_uci('h2c2')) (-13.0, Move.from_uci('d7d6')) (-13.0, Move.from_uci('h2g2'))
+Risposta IA: h2c2
+-13.00 -> -13.00: Esplorati 1605 nodi in 0.095 secondi 16883/sec
+Top 3: (-13.0, Move.from_uci('c2h2')) (-13.0, Move.from_uci('c2g2')) (-13.0, Move.from_uci('c2f2'))
+Risposta IA: c2h2
+-12.80 -> -13.00: Esplorati 1808 nodi in 0.095 secondi 19077/sec
+Top 3: (-13.0, Move.from_uci('h2c2')) (-13.0, Move.from_uci('d7d6')) (-13.0, Move.from_uci('h2g2'))
+Risposta IA: h2c2
+-13.00 -> -13.00: Esplorati 1544 nodi in 0.075 secondi 20524/sec
+Top 3: (-13.0, Move.from_uci('c2g2')) (-13.0, Move.from_uci('c2f2')) (-13.0, Move.from_uci('c2b2'))
+Risposta IA: c2g2
+-12.80 -> -13.00: Esplorati 1710 nodi in 0.146 secondi 11722/sec
+Top 3: (-13.0, Move.from_uci('g2c2')) (-13.0, Move.from_uci('d7d6')) (-13.0, Move.from_uci('g2h2'))
+Risposta IA: g2c2
+0.00 -> 1.50: Esplorati 1986 nodi in 0.400 secondi 4965/sec
+Top 3: (1.5, Move.from_uci('e2e3')) (1.3000000000000003, Move.from_uci('e2e4')) (1.2999999999999998, Move.from_uci('d2d4'))
+Risposta IA: e2e3
+1.00 -> 0.00: Esplorati 2359 nodi in 0.441 secondi 5350/sec
+Top 3: (0.0, Move.from_uci('e7e6')) (0.3999999999999999, Move.from_uci('e7e5')) (0.5, Move.from_uci('d7d5'))
+Risposta IA: e7e6
+0.00 -> 3.80: Esplorati 6625 nodi in 1.283 secondi 5165/sec
+Top 3: (3.8, Move.from_uci('d1f3')) (3.4000000000000004, Move.from_uci('f1b5')) (3.3, Move.from_uci('d1g4'))
+Risposta IA: d1f3
+0.80 -> -1.70: Esplorati 7773 nodi in 1.561 secondi 4978/sec
+Top 3: (-1.7000000000000002, Move.from_uci('d8g5')) (-1.2000000000000002, Move.from_uci('d8h4')) (-1.1, Move.from_uci('f8b4'))
+Risposta IA: d8g5
+-0.60 -> 4.70: Esplorati 14742 nodi in 3.227 secondi 4567/sec
+Top 3: (4.7, Move.from_uci('h2h4')) (4.7, Move.from_uci('e1d1')) (4.6000000000000005, Move.from_uci('g2g3'))
+Risposta IA: h2h4
+-0.40 -> -2.00: Esplorati 13772 nodi in 2.854 secondi 4824/sec
+Top 3: (-1.9999999999999996, Move.from_uci('g5c5')) (-1.6999999999999997, Move.from_uci('g5h6')) (-1.6, Move.from_uci('g5e5'))
+Risposta IA: g5c5
+-0.20 -> 3.90: Esplorati 13994 nodi in 2.866 secondi 4883/sec
+Top 3: (3.9, Move.from_uci('b1c3')) (3.9, Move.from_uci('f1d3')) (3.9, Move.from_uci('f1e2'))
+Risposta IA: b1c3
+0.30 -> -3.00: Esplorati 44080 nodi in 9.860 secondi 4470/sec
+Top 3: (-3.0, Move.from_uci('c5b4')) (-3.0, Move.from_uci('c5a5')) (-3.0, Move.from_uci('e8e7'))
+Risposta IA: c5b4
+0.00 -> 1.50: Esplorati 3591 nodi in 0.345 secondi 10407/sec
+Top 3: (1.5, Move.from_uci('e2e3')) (1.3000000000000003, Move.from_uci('e2e4')) (1.2999999999999998, Move.from_uci('d2d4'))
+Risposta IA: e2e3
+0.00 -> 1.50: Esplorati 193 nodi in 0.403 secondi 478/sec
+0.00 -> 1.50: Esplorati 414 nodi in 0.378 secondi 1095/sec
+0.00 -> 5.20: Esplorati 541 nodi in 3.960 secondi 136/sec
+Top 3: (1.5, Move.from_uci('e2e3')) (1.3000000000000003, Move.from_uci('e2e4')) (1.2999999999999998, Move.from_uci('d2d4'))
+Risposta IA: e2e3
+Top 3: (1.5, Move.from_uci('e2e3')) (1.3000000000000003, Move.from_uci('e2e4')) (1.2999999999999998, Move.from_uci('d2d4'))
+Risposta IA: e2e3
+0.00 -> 1.50: Esplorati 611 nodi in 0.234 secondi 2606/sec
+Top 3: (1.5, Move.from_uci('e2e3')) (1.3000000000000003, Move.from_uci('e2e4')) (1.2999999999999998, Move.from_uci('d2d4'))
+Risposta IA: e2e3
+Top 3: (5.2, Move.from_uci('a2a3')) (5.2, Move.from_uci('h4h5')) (5.2, Move.from_uci('a2a4'))
+Risposta IA: a2a3
+0.00 -> 1.50: Esplorati 334 nodi in 0.482 secondi 693/sec
+1.00 -> 0.00: Esplorati 3667 nodi in 0.489 secondi 7503/sec
+0.00 -> 1.50: Esplorati 3054 nodi in 0.578 secondi 5279/sec
+Top 3: (1.5, Move.from_uci('e2e3')) (1.3000000000000003, Move.from_uci('e2e4')) (1.2999999999999998, Move.from_uci('d2d4'))
+Risposta IA: e2e3
+1.00 -> 0.00: Esplorati 4260 nodi in 0.573 secondi 7428/sec
+0.00 -> 1.50: Esplorati 5404 nodi in 0.893 secondi 6053/sec
+Top 3: (0.0, Move.from_uci('e7e6')) (0.3999999999999999, Move.from_uci('e7e5')) (0.5, Move.from_uci('d7d5'))
+Risposta IA: e7e6
+1.00 -> 0.00: Esplorati 1119 nodi in 0.435 secondi 2573/sec
+Top 3: (1.5, Move.from_uci('e2e3')) (1.3000000000000003, Move.from_uci('e2e4')) (1.2999999999999998, Move.from_uci('d2d4'))
+Risposta IA: e2e3
+Top 3: (0.0, Move.from_uci('e7e6')) (0.3999999999999999, Move.from_uci('e7e5')) (0.5, Move.from_uci('d7d5'))
+Risposta IA: e7e6
+Top 3: (1.5, Move.from_uci('e2e3')) (1.3000000000000003, Move.from_uci('e2e4')) (1.2999999999999998, Move.from_uci('d2d4'))
+Risposta IA: e2e3
+Top 3: (0.0, Move.from_uci('e7e6')) (0.3999999999999999, Move.from_uci('e7e5')) (0.5, Move.from_uci('d7d5'))
+Risposta IA: e7e6
+1.00 -> 0.00: Esplorati 221 nodi in 0.920 secondi 240/sec
+1.00 -> 0.00: Esplorati 1097 nodi in 0.402 secondi 2729/sec
+Top 3: (0.0, Move.from_uci('e7e6')) (0.3999999999999999, Move.from_uci('e7e5')) (0.5, Move.from_uci('d7d5'))
+Risposta IA: e7e6
+1.00 -> 0.00: Esplorati 10102 nodi in 1.606 secondi 6291/sec
+Top 3: (0.0, Move.from_uci('e7e6')) (0.3999999999999999, Move.from_uci('e7e5')) (0.5, Move.from_uci('d7d5'))
+Risposta IA: e7e6
+Top 3: (0.0, Move.from_uci('e7e6')) (0.3999999999999999, Move.from_uci('e7e5')) (0.5, Move.from_uci('d7d5'))
+Risposta IA: e7e6
+1.00 -> 0.00: Esplorati 18021 nodi in 1.482 secondi 12159/sec
+0.00 -> 3.80: Esplorati 4012 nodi in 2.120 secondi 1892/sec
+0.00 -> 3.80: Esplorati 4012 nodi in 2.477 secondi 1619/sec
+Top 3: (0.0, Move.from_uci('e7e6')) (0.3999999999999999, Move.from_uci('e7e5')) (0.5, Move.from_uci('d7d5'))
+Risposta IA: e7e6
+0.00 -> 3.80: Esplorati 5437 nodi in 2.530 secondi 2148/sec
+0.00 -> 3.80: Esplorati 397 nodi in 1.747 secondi 227/sec
+Top 3: (3.8, Move.from_uci('d1f3')) (3.4000000000000004, Move.from_uci('f1b5')) (3.3, Move.from_uci('d1g4'))
+Risposta IA: d1f3
+Top 3: (3.8, Move.from_uci('d1f3')) (3.4000000000000004, Move.from_uci('f1b5')) (3.3, Move.from_uci('d1g4'))
+Risposta IA: d1f3
+Top 3: (3.8, Move.from_uci('d1f3')) (3.4000000000000004, Move.from_uci('f1b5')) (3.3, Move.from_uci('d1g4'))
+Risposta IA: d1f3
+Top 3: (3.8, Move.from_uci('d1f3')) (3.4000000000000004, Move.from_uci('f1b5')) (3.3, Move.from_uci('d1g4'))
+Risposta IA: d1f3
+0.00 -> 3.80: Esplorati 21274 nodi in 3.137 secondi 6782/sec
+0.80 -> -1.70: Esplorati 30459 nodi in 3.146 secondi 9683/sec
+Top 3: (3.8, Move.from_uci('d1f3')) (3.4000000000000004, Move.from_uci('f1b5')) (3.3, Move.from_uci('d1g4'))
+Risposta IA: d1f3
+0.00 -> 3.80: Esplorati 30711 nodi in 3.005 secondi 10220/sec
+0.80 -> -1.70: Esplorati 34239 nodi in 3.087 secondi 11092/sec
+Top 3: (3.8, Move.from_uci('d1f3')) (3.4000000000000004, Move.from_uci('f1b5')) (3.3, Move.from_uci('d1g4'))
+Risposta IA: d1f3
+0.80 -> -1.70: Esplorati 2776 nodi in 2.986 secondi 929/sec
+0.00 -> 3.80: Esplorati 2776 nodi in 4.103 secondi 676/sec
+Top 3: (-1.7000000000000002, Move.from_uci('d8g5')) (-1.2000000000000002, Move.from_uci('d8h4')) (-1.1, Move.from_uci('f8b4'))
+Risposta IA: d8g5
+Top 3: (-1.7000000000000002, Move.from_uci('d8g5')) (-1.2000000000000002, Move.from_uci('d8h4')) (-1.1, Move.from_uci('f8b4'))
+Risposta IA: d8g5
+0.80 -> -1.70: Esplorati 156 nodi in 3.773 secondi 41/sec
+Top 3: (-1.7000000000000002, Move.from_uci('d8g5')) (-1.2000000000000002, Move.from_uci('d8h4')) (-1.1, Move.from_uci('f8b4'))
+Risposta IA: d8g5
+Top 3: (3.8, Move.from_uci('d1f3')) (3.4000000000000004, Move.from_uci('f1b5')) (3.3, Move.from_uci('d1g4'))
+Risposta IA: d1f3
+Top 3: (-1.7000000000000002, Move.from_uci('d8g5')) (-1.2000000000000002, Move.from_uci('d8h4')) (-1.1, Move.from_uci('f8b4'))
+Risposta IA: d8g5
+0.80 -> -1.70: Esplorati 20076 nodi in 2.855 secondi 7031/sec
+0.20 -> -2.20: Esplorati 25043 nodi in 11.355 secondi 2205/sec
+0.80 -> -1.70: Esplorati 28816 nodi in 3.584 secondi 8039/sec
+Top 3: (-1.7000000000000002, Move.from_uci('d8g5')) (-1.2000000000000002, Move.from_uci('d8h4')) (-1.1, Move.from_uci('f8b4'))
+Risposta IA: d8g5
+Top 3: (-1.7000000000000002, Move.from_uci('d8g5')) (-1.2000000000000002, Move.from_uci('d8h4')) (-1.1, Move.from_uci('f8b4'))
+Risposta IA: d8g5
+Top 3: (-2.2, Move.from_uci('b4c5')) (-1.2000000000000002, Move.from_uci('b4d6')) (-1.2000000000000002, Move.from_uci('b4b6'))
+Risposta IA: b4c5
+-0.60 -> 4.70: Esplorati 117 nodi in 4.416 secondi 26/sec
+Top 3: (4.7, Move.from_uci('h2h4')) (4.7, Move.from_uci('e1d1')) (4.6000000000000005, Move.from_uci('g2g3'))
+Risposta IA: h2h4
+0.80 -> -1.70: Esplorati 9983 nodi in 4.473 secondi 2231/sec
+-0.60 -> 4.70: Esplorati 3707 nodi in 6.470 secondi 572/sec
+Top 3: (-1.7000000000000002, Move.from_uci('d8g5')) (-1.2000000000000002, Move.from_uci('d8h4')) (-1.1, Move.from_uci('f8b4'))
+Risposta IA: d8g5
+-0.60 -> 4.70: Esplorati 3831 nodi in 7.788 secondi 491/sec
+Top 3: (4.7, Move.from_uci('h2h4')) (4.7, Move.from_uci('e1d1')) (4.6000000000000005, Move.from_uci('g2g3'))
+Risposta IA: h2h4
+Top 3: (4.7, Move.from_uci('h2h4')) (4.7, Move.from_uci('e1d1')) (4.6000000000000005, Move.from_uci('g2g3'))
+Risposta IA: h2h4
+-0.60 -> 4.70: Esplorati 13922 nodi in 9.151 secondi 1521/sec
+-0.60 -> 4.70: Esplorati 24458 nodi in 6.245 secondi 3916/sec
+Top 3: (4.7, Move.from_uci('h2h4')) (4.7, Move.from_uci('e1d1')) (4.6000000000000005, Move.from_uci('g2g3'))
+Risposta IA: h2h4
+-0.60 -> 4.70: Esplorati 29065 nodi in 7.346 secondi 3956/sec
+Top 3: (4.7, Move.from_uci('h2h4')) (4.7, Move.from_uci('e1d1')) (4.6000000000000005, Move.from_uci('g2g3'))
+Risposta IA: h2h4
+-0.40 -> -2.00: Esplorati 538 nodi in 5.806 secondi 92/sec
+Top 3: (4.7, Move.from_uci('h2h4')) (4.7, Move.from_uci('e1d1')) (4.6000000000000005, Move.from_uci('g2g3'))
+Risposta IA: h2h4
+Top 3: (-1.9999999999999996, Move.from_uci('g5c5')) (-1.6999999999999997, Move.from_uci('g5h6')) (-1.6, Move.from_uci('g5e5'))
+Risposta IA: g5c5
+-0.40 -> -2.00: Esplorati 11488 nodi in 5.490 secondi 2092/sec
+-0.60 -> 4.70: Esplorati 19318 nodi in 8.341 secondi 2316/sec
+Top 3: (-1.9999999999999996, Move.from_uci('g5c5')) (-1.6999999999999997, Move.from_uci('g5h6')) (-1.6, Move.from_uci('g5e5'))
+Risposta IA: g5c5
+-0.40 -> -2.00: Esplorati 19805 nodi in 7.009 secondi 2825/sec
+Top 3: (-1.9999999999999996, Move.from_uci('g5c5')) (-1.6999999999999997, Move.from_uci('g5h6')) (-1.6, Move.from_uci('g5e5'))
+Risposta IA: g5c5
+Top 3: (4.7, Move.from_uci('h2h4')) (4.7, Move.from_uci('e1d1')) (4.6000000000000005, Move.from_uci('g2g3'))
+Risposta IA: h2h4
+-0.40 -> -2.00: Esplorati 14874 nodi in 9.451 secondi 1573/sec
+Top 3: (-1.9999999999999996, Move.from_uci('g5c5')) (-1.6999999999999997, Move.from_uci('g5h6')) (-1.6, Move.from_uci('g5e5'))
+Risposta IA: g5c5
+-0.40 -> -2.00: Esplorati 2596 nodi in 1499.333 secondi 1/sec
+-0.20 -> 3.90: Esplorati 4736 nodi in 1498.424 secondi 3/sec
+Top 3: (3.9, Move.from_uci('b1c3')) (3.9, Move.from_uci('f1d3')) (3.9, Move.from_uci('f1e2'))
+Risposta IA: b1c3
+Top 3: (-1.9999999999999996, Move.from_uci('g5c5')) (-1.6999999999999997, Move.from_uci('g5h6')) (-1.6, Move.from_uci('g5e5'))
+Risposta IA: g5c5
+0.00 -> 1.50: Esplorati 20420 nodi in 5.284 secondi 3864/sec
+-0.40 -> -2.00: Esplorati 22879 nodi in 1507.512 secondi 15/sec
+Top 3: (1.5, Move.from_uci('e2e3')) (1.3000000000000003, Move.from_uci('e2e4')) (1.2999999999999998, Move.from_uci('d2d4'))
+Risposta IA: e2e3
+Top 3: (-1.9999999999999996, Move.from_uci('g5c5')) (-1.6999999999999997, Move.from_uci('g5h6')) (-1.6, Move.from_uci('g5e5'))
+Risposta IA: g5c5
+-0.20 -> 3.90: Esplorati 36373 nodi in 1509.104 secondi 24/sec
+-0.20 -> 3.90: Esplorati 1666 nodi in 1509.874 secondi 1/sec
+Top 3: (3.9, Move.from_uci('b1c3')) (3.9, Move.from_uci('f1d3')) (3.9, Move.from_uci('f1e2'))
+Risposta IA: b1c3
+Top 3: (3.9, Move.from_uci('b1c3')) (3.9, Move.from_uci('f1d3')) (3.9, Move.from_uci('f1e2'))
+Risposta IA: b1c3
+0.00 -> 1.50: Esplorati 137 nodi in 3.824 secondi 35/sec
+0.00 -> 1.50: Esplorati 7067 nodi in 5.317 secondi 1329/sec
+0.00 -> 1.50: Esplorati 8980 nodi in 5.080 secondi 1767/sec
+1.00 -> 0.00: Esplorati 9388 nodi in 5.902 secondi 1590/sec
+Top 3: (1.5, Move.from_uci('e2e3')) (1.3000000000000003, Move.from_uci('e2e4')) (1.2999999999999998, Move.from_uci('d2d4'))
+Risposta IA: e2e3
+Top 3: (1.5, Move.from_uci('e2e3')) (1.3000000000000003, Move.from_uci('e2e4')) (1.2999999999999998, Move.from_uci('d2d4'))
+Risposta IA: e2e3
+-0.40 -> -2.00: Esplorati 10675 nodi in 1514.459 secondi 7/sec
+Top 3: (-1.9999999999999996, Move.from_uci('g5c5')) (-1.6999999999999997, Move.from_uci('g5h6')) (-1.6, Move.from_uci('g5e5'))
+Risposta IA: g5c5
+Top 3: (1.5, Move.from_uci('e2e3')) (1.3000000000000003, Move.from_uci('e2e4')) (1.2999999999999998, Move.from_uci('d2d4'))
+Risposta IA: e2e3
+Top 3: (0.0, Move.from_uci('e7e6')) (0.3999999999999999, Move.from_uci('e7e5')) (0.5, Move.from_uci('d7d5'))
+Risposta IA: e7e6
+0.00 -> 1.50: Esplorati 1561 nodi in 3.201 secondi 487/sec
+Top 3: (1.5, Move.from_uci('e2e3')) (1.3000000000000003, Move.from_uci('e2e4')) (1.2999999999999998, Move.from_uci('d2d4'))
+Risposta IA: e2e3
+1.00 -> -0.40: Esplorati 2309 nodi in 0.668 secondi 3456/sec
+Top 3: (-0.3999999999999999, Move.from_uci('e7e6')) (-0.10000000000000009, Move.from_uci('b8a6')) (0.0, Move.from_uci('e7e5'))
+Risposta IA: e7e6
+-0.20 -> -4.10: Esplorati 6628 nodi in 1.641 secondi 4040/sec
+Top 3: (-4.1000000000000005, Move.from_uci('d8f6')) (-4.0, Move.from_uci('a7a6')) (-3.9, Move.from_uci('g7g5'))
+Risposta IA: d8f6
+-0.60 -> -4.60: Esplorati 6610 nodi in 2.101 secondi 3145/sec
+Top 3: (-4.6000000000000005, Move.from_uci('f6f4')) (-4.6, Move.from_uci('f6g6')) (-4.5, Move.from_uci('f6h6'))
+Risposta IA: f6f4
+1.00 -> -3.20: Esplorati 59369 nodi in 15.207 secondi 3903/sec
+Top 3: (-3.2, Move.from_uci('e7e6')) (-3.2, Move.from_uci('e7e5')) (-3.2, Move.from_uci('c7c5'))
+Risposta IA: e7e6

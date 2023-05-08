@@ -263,4 +263,3 @@ if __name__ == "__main__":
     print(s.board.result())
   else:
     app.run(debug=True)
-
